@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2024/12/19/firmware-update-for.html",
+				
+				"content_html": "<p>Firmware update for X-T5 released, with fixes on the AF issues. Just in time of going to photograph the Winter Solstice stuff. Fingers crossed&hellip;</p>\n",
+				"content_text": "Firmware update for X-T5 released, with fixes on the AF issues. Just in time of going to photograph the Winter Solstice stuff. Fingers crossed...\n",
+				"date_published": "2024-12-19T11:15:47+00:00",
+				"url": "https://t3mujin.micro.blog/2024/12/19/firmware-update-for.html",
+				"tags": ["Photog stuff"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2024/12/12/a-quantidade-de.html",
 				
 				"content_html": "<p>A quantidade de publicidade da Starlink em português de Portugal que anda a aparecer na rede do pássaro ultimamente é impressionante. Aposto que o padrinho deve fazer um desconto.</p>\n",
@@ -46,7 +55,7 @@
 				"id": "http://t3mujin.micro.blog/2024/12/05/me-after-hearing.html",
 				
 				"content_html": "<p>Me after hearing Tom Heaton saying &ldquo;The tripod is the photographer&rsquo;s best friend&rdquo; on his latest video.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Me after hearing Tom Heaton saying \"The tripod is the photographer's best friend\" on his latest video.\n\n<img src=\"uploads/2024/540fafb673dfc871b34197263b87fa4e.jpg\" alt=\"A puppet with wide eyes and a surprised expression is looking sideways.\" width=\"600\" height=\"303\" alt=\"\">\n",
+				"content_text": "Me after hearing Tom Heaton saying \"The tripod is the photographer's best friend\" on his latest video.\n\n<img src=\"https://cdn.uploads.micro.blog/33187/2024/540fafb673dfc871b34197263b87fa4e.jpg\" alt=\"A puppet with wide eyes and a surprised expression is looking sideways.\" width=\"600\" height=\"303\" alt=\"\">\n",
 				"date_published": "2024-12-05T17:01:51+00:00",
 				"url": "https://t3mujin.micro.blog/2024/12/05/me-after-hearing.html",
 				"tags": ["Photog stuff","Photos"]
