@@ -7,10 +7,73 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2025/04/24/its-great-that-nikon-is.html",
+				
+				"content_html": "<p>It&rsquo;s great that Nikon is open to vintage inspired cameras, but what would be even better would be lenses, and I&rsquo;m not even talking about vintage look. A new take on AF-D lenses for Z mount!</p>\n<p><a href=\"https://petapixel.com/2025/04/23/nikon-is-open-to-making-more-vintage-inspired-cameras/\">petapixel.com/2025/04/2&hellip;</a></p>\n",
+				"content_text": "It's great that Nikon is open to vintage inspired cameras, but what would be even better would be lenses, and I'm not even talking about vintage look. A new take on AF-D lenses for Z mount!\r\n\r\n[petapixel.com/2025/04/2...](https://petapixel.com/2025/04/23/nikon-is-open-to-making-more-vintage-inspired-cameras/)\n",
+				"date_published": "2025-04-24T09:54:27+01:00",
+				"url": "https://t3mujin.micro.blog/2025/04/24/its-great-that-nikon-is.html",
+				"tags": ["Photog stuff"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2025/04/23/algum-explique-ao-luis-que.html",
+				
+				"content_html": "<p>Alguém explique ao Luis que o 25 de Abril não é os Santos Populares&hellip;</p>\n<p><a href=\"https://expresso.pt/politica/2025-04-23-governo-cancela-agenda-festiva-do-25-de-abril-luto-pelo-papa-implica-reserva-nas-celebracoes-9042b917\">expresso.pt/politica/&hellip;</a></p>\n",
+				"content_text": "Alguém explique ao Luis que o 25 de Abril não é os Santos Populares...\n\n[expresso.pt/politica/...](https://expresso.pt/politica/2025-04-23-governo-cancela-agenda-festiva-do-25-de-abril-luto-pelo-papa-implica-reserva-nas-celebracoes-9042b917)\n",
+				"date_published": "2025-04-23T20:57:09+01:00",
+				"url": "https://t3mujin.micro.blog/2025/04/23/algum-explique-ao-luis-que.html",
+				"tags": ["Fun stuff"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2025/04/23/its-and-i-still-think.html",
+				
+				"content_html": "<p>It&rsquo;s 2025 and I still think Google Inbox was far superior to regular Gmail, and still want it back&hellip;</p>\n",
+				"content_text": "It's 2025 and I still think Google Inbox was far superior to regular Gmail, and still want it back...\n",
+				"date_published": "2025-04-23T19:02:13+01:00",
+				"url": "https://t3mujin.micro.blog/2025/04/23/its-and-i-still-think.html",
+				"tags": ["Geek stuff"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2025/04/23/i-already-lost-time-on.html",
+				
+				"content_html": "<p>I already lost time on how many times I got stuck in the Microsoft Teams animation when trying to join a meeting&hellip;</p>\n",
+				"content_text": "I already lost time on how many times I got stuck in the Microsoft Teams animation when trying to join a meeting...\n",
+				"date_published": "2025-04-23T14:09:33+01:00",
+				"url": "https://t3mujin.micro.blog/2025/04/23/i-already-lost-time-on.html",
+				"tags": ["Geek stuff"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2025/04/21/o-moedas-em-directo-da.html",
+				
+				"content_html": "<p>O Moedas em directo da Sé, tudo à volta dele, de como as Jornadas da Juventude foram espetaculares&hellip;</p>\n",
+				"content_text": "O Moedas em directo da Sé, tudo à volta dele, de como as Jornadas da Juventude foram espetaculares... \n",
+				"date_published": "2025-04-21T20:58:26+01:00",
+				"url": "https://t3mujin.micro.blog/2025/04/21/o-moedas-em-directo-da.html",
+				"tags": ["Fun stuff"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2025/04/19/something-is-brewing-in-the.html",
+				
+				"content_html": "<p>Something is brewing in the air</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Something is brewing in the air \n\n<img src=\"https://cdn.uploads.micro.blog/33187/2025/f2ecb7d72b.jpg\" width=\"600\" height=\"399\" alt=\"A dimly lit street lamp illuminates a weathered building under a cloudy night sky.\">\n",
+				"date_published": "2025-04-19T21:30:20+01:00",
+				"url": "https://t3mujin.micro.blog/2025/04/19/something-is-brewing-in-the.html",
+				"tags": ["Photos","On The Go Snaps"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2025/04/19/one-of-my-questions-for.html",
+				
+				"content_html": "<p>One of my questions for my new photo website is whether having comments or not. A static website (how I chose to build it) will always require an external solution, I don&rsquo;t think a paid service makes sense and free solutions (like Disqus) are a privacy nightmare. Probably I&rsquo;ll go without it.</p>\n",
+				"content_text": "One of my questions for my new photo website is whether having comments or not. A static website (how I chose to build it) will always require an external solution, I don't think a paid service makes sense and free solutions (like Disqus) are a privacy nightmare. Probably I'll go without it.\n",
+				"date_published": "2025-04-19T13:10:32+01:00",
+				"url": "https://t3mujin.micro.blog/2025/04/19/one-of-my-questions-for.html",
+				"tags": ["Photog stuff"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2025/04/19/its-neither-winter-or-spring.html",
 				
 				"content_html": "<p>It&rsquo;s neither Winter or Spring&hellip;</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "It's neither Winter or Spring... \n\n<img src=\"uploads/2025/563604d115.jpg\" width=\"600\" height=\"399\" alt=\"Tall tree trunks frame a reflective body of water surrounded by lush greenery.\"><img src=\"uploads/2025/1fe6e587f6.jpg\" width=\"600\" height=\"399\" alt=\"Two people are walking under umbrellas on a cobblestone path in a dark, rainy village scene.\">\n",
+				"content_text": "It's neither Winter or Spring... \n\n<img src=\"https://cdn.uploads.micro.blog/33187/2025/563604d115.jpg\" width=\"600\" height=\"399\" alt=\"Tall tree trunks frame a reflective body of water surrounded by lush greenery.\"><img src=\"https://cdn.uploads.micro.blog/33187/2025/1fe6e587f6.jpg\" width=\"600\" height=\"399\" alt=\"Two people are walking under umbrellas on a cobblestone path in a dark, rainy village scene.\">\n",
 				"date_published": "2025-04-19T11:16:38+01:00",
 				"url": "https://t3mujin.micro.blog/2025/04/19/its-neither-winter-or-spring.html",
 				"tags": ["Photos","On The Go Snaps"]
@@ -19,7 +82,7 @@
 				"id": "http://t3mujin.micro.blog/2025/04/18/rain-also-means-mushrooms.html",
 				
 				"content_html": "<p>Rain also means mushrooms.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Rain also means mushrooms.\n\n<img src=\"uploads/2025/8f6e6d0664.jpg\" width=\"449\" height=\"600\" alt=\"Fungi with orange and yellow hues grow on a weathered piece of wood.\">\n",
+				"content_text": "Rain also means mushrooms.\n\n<img src=\"https://cdn.uploads.micro.blog/33187/2025/8f6e6d0664.jpg\" width=\"449\" height=\"600\" alt=\"Fungi with orange and yellow hues grow on a weathered piece of wood.\">\n",
 				"date_published": "2025-04-18T18:58:51+01:00",
 				"url": "https://t3mujin.micro.blog/2025/04/18/rain-also-means-mushrooms.html",
 				"tags": ["Photos","On The Go Snaps"]
@@ -37,7 +100,7 @@
 				"id": "http://t3mujin.micro.blog/2025/04/18/almost-there.html",
 				
 				"content_html": "<p>Almost there 😊</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Almost there 😊\n\n<img src=\"uploads/2025/1d4ab8a96f.png\" width=\"485\" height=\"600\" alt=\"A webpage features a section showcasing a series titled &quot;Demons of New Year&quot; by João Pedro Almeida, with text about winter solstice rituals in Northeastern Portugal and an accompanying image of people adorned in colorful traditional costumes.\">\n",
+				"content_text": "Almost there 😊\n\n<img src=\"https://cdn.uploads.micro.blog/33187/2025/1d4ab8a96f.png\" width=\"485\" height=\"600\" alt=\"A webpage features a section showcasing a series titled &quot;Demons of New Year&quot; by João Pedro Almeida, with text about winter solstice rituals in Northeastern Portugal and an accompanying image of people adorned in colorful traditional costumes.\">\n",
 				"date_published": "2025-04-18T15:45:42+01:00",
 				"url": "https://t3mujin.micro.blog/2025/04/18/almost-there.html",
 				"tags": ["Photog stuff","Photos"]
