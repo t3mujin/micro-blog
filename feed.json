@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2025/08/07/i-love-the-smell-of/",
+				
+				"content_html": "<blockquote>\n<p>I love the smell of napalm in the morning</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
+				"content_text": "> I love the smell of napalm in the morning\n\n<img src=\"uploads/2025/5f066ca36f.jpg\" width=\"600\" height=\"450\" alt=\"A computer screen displays a BIOS update process with the message &quot;Begin Flashing&quot; and a total block count of 4096.\">\n",
+				"date_published": "2025-08-07T10:46:39+01:00",
+				"url": "https://t3mujin.micro.blog/2025/08/07/i-love-the-smell-of/",
+				"tags": ["Geek stuff","Photos"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2025/08/06/aqui-no-bairro-os-passeios/",
+				
+				"content_html": "<p>Aqui no bairro os passeios estão carregados de pilaretes, para a malta não estacionar no passeio, excepto junto às passadeiras.\nEstão a imaginar o que acaba por acontecer, certo? Hoje foi mais óbvio por estar um Lamborghini azulão&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Aqui no bairro os passeios estão carregados de pilaretes, para a malta não estacionar no passeio, excepto junto às passadeiras.\nEstão a imaginar o que acaba por acontecer, certo? Hoje foi mais óbvio por estar um Lamborghini azulão... \n\n<img src=\"uploads/2025/269c9c210b.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-08-06T14:14:36+01:00",
+				"url": "https://t3mujin.micro.blog/2025/08/06/aqui-no-bairro-os-passeios/",
+				"tags": ["Photos","Fun stuff"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2025/08/06/accessing-sites-in-defiance-of/",
+				
+				"content_html": "<blockquote>\n<p>accessing sites in defiance of the website owner’s wishes, while controversial, is acceptable.</p>\n</blockquote>\n<p>Although not fully agreeing with Cloudflare&rsquo;s and not being fully comfortable with Perplexity&rsquo;s procedures, sometimes I feel people are picking convenience and blissfully ignoring all the potential impacts of AI.</p>\n<p><a href=\"https://techcrunch.com/2025/08/05/some-people-are-defending-perplexity-after-cloudflare-named-and-shamed-it/\">Some people are defending Perplexity after Cloudflare ‘named and shamed’ it</a></p>\n",
+				"content_text": "> accessing sites in defiance of the website owner’s wishes, while controversial, is acceptable.\n\nAlthough not fully agreeing with Cloudflare's and not being fully comfortable with Perplexity's procedures, sometimes I feel people are picking convenience and blissfully ignoring all the potential impacts of AI. \n\n[Some people are defending Perplexity after Cloudflare ‘named and shamed’ it](https://techcrunch.com/2025/08/05/some-people-are-defending-perplexity-after-cloudflare-named-and-shamed-it/)\n",
+				"date_published": "2025-08-06T00:04:17+01:00",
+				"url": "https://t3mujin.micro.blog/2025/08/06/accessing-sites-in-defiance-of/",
+				"tags": ["Geek stuff"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2025/08/05/tidying-up-a-bit-my/",
+				
+				"content_html": "<p>Tidying up a bit my blogs here, I&rsquo;m moving some of my photo related content to their own place, so expect less of it in this blog (although everything will still be dumped in the timeline). The first will be <a href=\"https://fieldnotes.joaopedroalmeida.com\">this one</a>, where most of those updates will go, and <a href=\"https://justthephotos.joaopedroalmeida.com/\">this is the other</a>, where I feature some of my photos once in a while.</p>\n",
+				"content_text": "Tidying up a bit my blogs here, I'm moving some of my photo related content to their own place, so expect less of it in this blog (although everything will still be dumped in the timeline). The first will be [this one](https://fieldnotes.joaopedroalmeida.com), where most of those updates will go, and [this is the other](https://justthephotos.joaopedroalmeida.com/), where I feature some of my photos once in a while. \n",
+				"date_published": "2025-08-05T18:24:55+01:00",
+				"url": "https://t3mujin.micro.blog/2025/08/05/tidying-up-a-bit-my/"
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2025/08/05/like-anyone-i-use-paid/",
 				
 				"content_html": "<p>Like anyone, I use paid apps, but also free ones. And a thing that really annoys me is apps that flaunt the &ldquo;free forever&rdquo;, but silently cripple and remove features from their free tier&hellip; I call it the Evernote Effect.</p>\n",
@@ -37,7 +72,7 @@
 				"id": "http://t3mujin.micro.blog/2025/08/01/at-sempre-copanheiro/",
 				
 				"content_html": "<p>Até sempre cãopanheiro&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Até sempre cãopanheiro... \n\n<img src=\"uploads/2025/10287923aa.jpg\">\n",
+				"content_text": "Até sempre cãopanheiro... \n\n<img src=\"https://cdn.uploads.micro.blog/33187/2025/10287923aa.jpg\">\n",
 				"date_published": "2025-08-01T10:52:10+01:00",
 				"url": "https://t3mujin.micro.blog/2025/08/01/at-sempre-copanheiro/",
 				"tags": ["Photos","Fun stuff"]
