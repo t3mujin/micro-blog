@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2025/08/09/only-two-weeks-old-but/",
+				
+				"content_html": "<p>Only two weeks old, but can&rsquo;t believe it took me this long for YouTube&rsquo;s algorithm to recommend it to me. This non-electric side of Amenra isn&rsquo;t a surprise, the acoustic performances are neat, but this is nicely done.</p>\n<p><a href=\"https://www.youtube.com/watch?v=S-SGHjVGIuI\">www.youtube.com/watch</a></p>\n",
+				"content_text": "Only two weeks old, but can't believe it took me this long for YouTube's algorithm to recommend it to me. This non-electric side of Amenra isn't a surprise, the acoustic performances are neat, but this is nicely done.\n\n[www.youtube.com/watch](https://www.youtube.com/watch?v=S-SGHjVGIuI)\n",
+				"date_published": "2025-08-09T01:08:11+01:00",
+				"url": "https://t3mujin.micro.blog/2025/08/09/only-two-weeks-old-but/",
+				"tags": ["Fun stuff"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2025/08/08/020905/",
+				
+				"content_html": "<p>Sleep tune for today&hellip;</p>\n<p><a href=\"https://youtube.com/watch?v=6p8DuJSBVbA\">youtube.com/watch</a></p>\n",
+				"content_text": "Sleep tune for today... \n\n[youtube.com/watch](https://youtube.com/watch?v=6p8DuJSBVbA)\n",
+				"date_published": "2025-08-08T02:09:05+01:00",
+				"url": "https://t3mujin.micro.blog/2025/08/08/020905/"
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2025/08/07/rewriting-history-when-i-read/",
+				
+				"content_html": "<p>Rewriting history. When I read 1984, years ago, I felt it was very real, in a scary way. And somehow every we seem closer to it.</p>\n<p><a href=\"https://today.rtl.lu/news/science-and-environment/a/2327183.html\">US to rewrite its past national climate reports</a></p>\n",
+				"content_text": "Rewriting history. When I read 1984, years ago, I felt it was very real, in a scary way. And somehow every we seem closer to it. \n\n[US to rewrite its past national climate reports](https://today.rtl.lu/news/science-and-environment/a/2327183.html) \n",
+				"date_published": "2025-08-07T21:54:52+01:00",
+				"url": "https://t3mujin.micro.blog/2025/08/07/rewriting-history-when-i-read/",
+				"tags": ["Geek stuff"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2025/08/07/aquele-clssico-das-entregas-de/",
+				
+				"content_html": "<p>Aquele clássico das entregas de encomendas: tenho uma chamada não atendida no telefone (ouvi, mas tocou mesmo rápido), recebo a notificação que não conseguiram entregar, nunca ninguém chegou a tocar à porta&hellip;</p>\n<p>Desta vez os senhores da Batch, os que entregam Nespresso.</p>\n",
+				"content_text": "Aquele clássico das entregas de encomendas: tenho uma chamada não atendida no telefone (ouvi, mas tocou mesmo rápido), recebo a notificação que não conseguiram entregar, nunca ninguém chegou a tocar à porta...\n\nDesta vez os senhores da Batch, os que entregam Nespresso. \n",
+				"date_published": "2025-08-07T20:16:17+01:00",
+				"url": "https://t3mujin.micro.blog/2025/08/07/aquele-clssico-das-entregas-de/",
+				"tags": ["Fun stuff"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2025/08/07/i-love-the-smell-of/",
 				
 				"content_html": "<blockquote>\n<p>I love the smell of napalm in the morning</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
@@ -19,7 +54,7 @@
 				"id": "http://t3mujin.micro.blog/2025/08/06/aqui-no-bairro-os-passeios/",
 				
 				"content_html": "<p>Aqui no bairro os passeios estão carregados de pilaretes, para a malta não estacionar no passeio, excepto junto às passadeiras.\nEstão a imaginar o que acaba por acontecer, certo? Hoje foi mais óbvio por estar um Lamborghini azulão&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Aqui no bairro os passeios estão carregados de pilaretes, para a malta não estacionar no passeio, excepto junto às passadeiras.\nEstão a imaginar o que acaba por acontecer, certo? Hoje foi mais óbvio por estar um Lamborghini azulão... \n\n<img src=\"uploads/2025/269c9c210b.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
+				"content_text": "Aqui no bairro os passeios estão carregados de pilaretes, para a malta não estacionar no passeio, excepto junto às passadeiras.\nEstão a imaginar o que acaba por acontecer, certo? Hoje foi mais óbvio por estar um Lamborghini azulão... \n\n<img src=\"https://cdn.uploads.micro.blog/33187/2025/269c9c210b.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-08-06T14:14:36+01:00",
 				"url": "https://t3mujin.micro.blog/2025/08/06/aqui-no-bairro-os-passeios/",
 				"tags": ["Photos","Fun stuff"]
