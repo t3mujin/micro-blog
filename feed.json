@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/01/15/pretty-new-tune-or-unreleased/",
+				
+				"content_html": "<p>Pretty new <a href=\"https://youtu.be/Wg_EP8Sicwo\">tune</a>, or unreleased, from Daughter on a gloomy, numbing day&hellip;</p>\n",
+				"content_text": "Pretty new [tune](https://youtu.be/Wg_EP8Sicwo), or unreleased, from Daughter on a gloomy, numbing day... \n",
+				"date_published": "2026-01-15T21:30:51+00:00",
+				"url": "https://t3mujin.blog/2026/01/15/pretty-new-tune-or-unreleased/",
+				"tags": ["Fun stuff"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/01/12/for-a-long-time-obsidian/",
+				
+				"content_html": "<p>For a long time Obsidian for mobile was fine, but the <a href=\"https://obsidian.md/changelog/2026-01-12-mobile-v1.11.4/\">latest version</a> gives a bit more love to it. New widgets and overall smoother and slicker.</p>\n",
+				"content_text": "For a long time Obsidian for mobile was fine, but the [latest version](https://obsidian.md/changelog/2026-01-12-mobile-v1.11.4/) gives a bit more love to it. New widgets and overall smoother and slicker.\n",
+				"date_published": "2026-01-12T21:42:32+00:00",
+				"url": "https://t3mujin.blog/2026/01/12/for-a-long-time-obsidian/",
+				"tags": ["Geek stuff"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/01/12/j-c-faltava-o-deus/",
 				
 				"content_html": "<p>Já cá faltava o &ldquo;Deus, Pátria, Família&rdquo;&hellip;</p>\n",
