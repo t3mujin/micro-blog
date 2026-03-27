@@ -1,11 +1,29 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "João Almeida",
-	"icon": "https://micro.blog/t3mujin/avatar.jpg",
+	"icon": "<no value>",
 	"home_page_url": "https://t3mujin.blog/",
 	"feed_url": "https://t3mujin.blog/feed.json",
 	"items": [
 		
+			{
+				"id": "http://t3mujin.micro.blog/2026/03/26/im-martin-parr-day/",
+				
+				"content_html": "<p>I&rsquo;m Martin Parr day!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'm Martin Parr day! \n\n<img src=\"uploads/2026/9f1cef141c.jpg\" width=\"450\" height=\"600\" alt=\"A poster for the film Eu Sou Martin Parr is displayed, featuring people enjoying a sunny outdoor setting.\">\n",
+				"date_published": "2026-03-26T21:36:22+00:00",
+				"url": "https://t3mujin.blog/2026/03/26/im-martin-parr-day/",
+				"tags": ["Photog stuff","Photos","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/03/26/a-bit-of-adrenaline-to/",
+				
+				"content_html": "<p>A bit of adrenaline to start the day: a BIOS update!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A bit of adrenaline to start the day: a BIOS update! \n\n<img src=\"https://fieldnotes.joaopedroalmeida.com/uploads/2026/0e29b7ac04.jpg\" width=\"600\" height=\"450\" alt=\"Terminal window in a laptop with a BIOS update running, with the words &quot;Do not turn off the computer during the update&quot;. \">\n",
+				"date_published": "2026-03-26T09:47:16+00:00",
+				"url": "https://t3mujin.blog/2026/03/26/a-bit-of-adrenaline-to/",
+				"tags": ["Geek stuff","Photos","Microposts"]
+			},
 			{
 				"id": "http://t3mujin.micro.blog/2026/03/26/silently-killing-ee-encryption-because/",
 				
@@ -46,7 +64,7 @@
 				"id": "http://t3mujin.micro.blog/2026/03/14/zen-moment-of-the-day/",
 				
 				"content_html": "<p>Zen moment of the day!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Zen moment of the day! \n\n<img src=\"uploads/2026/8ee9dfec24.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Zen moment of the day! \n\n<img src=\"https://eu.uploads.micro.blog/33187/2026/8ee9dfec24.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-14T20:13:21+00:00",
 				"url": "https://t3mujin.blog/2026/03/14/zen-moment-of-the-day/",
 				"tags": ["Photos","Fun stuff","Travel Stuff","Microposts"]
@@ -55,7 +73,7 @@
 				"id": "http://t3mujin.micro.blog/2026/03/13/hello-marrakesh-the-fact-that/",
 				
 				"content_html": "<p>Hello Marrakesh! The fact that this is roughly a 1h flight from Lisbon never ceases to amaze me.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hello Marrakesh! The fact that this is roughly a 1h flight from Lisbon never ceases to amaze me. \n\n\n\n\n<img src=\"uploads/2026/0bb4c2642f.jpg\" width=\"450\" height=\"600\" alt=\"Aerial view of farmland and fields seen through an airplane window with a clear blue sky and clouds in the distance.\">\n",
+				"content_text": "Hello Marrakesh! The fact that this is roughly a 1h flight from Lisbon never ceases to amaze me. \n\n\n\n\n<img src=\"https://eu.uploads.micro.blog/33187/2026/0bb4c2642f.jpg\" width=\"450\" height=\"600\" alt=\"Aerial view of farmland and fields seen through an airplane window with a clear blue sky and clouds in the distance.\">\n",
 				"date_published": "2026-03-13T16:33:09+00:00",
 				"url": "https://t3mujin.blog/2026/03/13/hello-marrakesh-the-fact-that/",
 				"tags": ["Photos","Travel Stuff","Microposts"]
@@ -270,8 +288,8 @@
 			{
 				"id": "http://t3mujin.micro.blog/2026/02/13/this-sure-has-been-a/",
 				
-				"content_html": "<p>This sure has been a frequent alert lately&hellip;</p>\n<p><img src=\"https://t3mujin.blog/uploads/2026/eb68638067.jpg\" alt=\"A smartwatch displays a storm alert for severe weather conditions.\"></p>\n",
-				"content_text": "This sure has been a frequent alert lately... \n\n![A smartwatch displays a storm alert for severe weather conditions.](https://t3mujin.blog/uploads/2026/eb68638067.jpg)\n",
+				"content_html": "<p>This sure has been a frequent alert lately&hellip;</p>\n<p><img src=\"https://eu.uploads.micro.blog/33187/2026/eb68638067.jpg\" alt=\"A smartwatch displays a storm alert for severe weather conditions.\"></p>\n",
+				"content_text": "This sure has been a frequent alert lately... \n\n![A smartwatch displays a storm alert for severe weather conditions.](https://eu.uploads.micro.blog/33187/2026/eb68638067.jpg)\n",
 				"date_published": "2026-02-13T12:42:43+00:00",
 				"url": "https://t3mujin.blog/2026/02/13/this-sure-has-been-a/",
 				"tags": ["Fun stuff","Microposts"]
@@ -1404,7 +1422,7 @@
 			{
 				"id": "http://t3mujin.micro.blog/2025/09/01/a-significant-part-of-my/",
 				
-				"content_html": "<p>A significant part of my Monday morning is spent running again the authentication flows of all my clients' email accounts, because each sets up one for me, which is even more time consuming now because each has their own multi-factor authentication setup in a different way.</p>\n",
+				"content_html": "<p>A significant part of my Monday morning is spent running again the authentication flows of all my clients&rsquo; email accounts, because each sets up one for me, which is even more time consuming now because each has their own multi-factor authentication setup in a different way.</p>\n",
 				"content_text": "A significant part of my Monday morning is spent running again the authentication flows of all my clients' email accounts, because each sets up one for me, which is even more time consuming now because each has their own multi-factor authentication setup in a different way.\n",
 				"date_published": "2025-09-01T10:03:47+00:00",
 				"url": "https://t3mujin.blog/2025/09/01/a-significant-part-of-my/",
@@ -1720,7 +1738,7 @@
 				"id": "http://t3mujin.micro.blog/2025/07/21/a-few-days-late-maybe/",
 				
 				"content_html": "<p>A few days late, maybe I&rsquo;m getting tired of all this time on the road, but had to share the days spent in the Kalash Valleys!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A few days late, maybe I'm getting tired of all this time on the road, but had to share the days spent in the Kalash Valleys! \n\n<img src=\"uploads/2025/69c1ad1cce.jpg\" width=\"600\" height=\"399\" alt=\"In a dimly lit room with shafts of light filtering through, a person stands silhouetted in front of a fire, while another sits nearby.\"><img src=\"uploads/2025/f75ec4e394.jpg\" width=\"600\" height=\"399\" alt=\"Two people in traditional clothing stand on a rocky terrain with mountains and greenery in the background, engaged in an activity with strings or ropes.\"><img src=\"uploads/2025/83a269201c.jpg\" width=\"600\" height=\"399\" alt=\"A rustic kitchen features a central wood-burning stove with teapots on top, surrounded by traditional kitchenware and a cozy seating area with cushions on the floor.\"><img src=\"uploads/2025/5c937c44c0.jpg\" width=\"600\" height=\"399\" alt=\"A person wearing traditional attire and a hat is sitting pensively in a rustic room with kitchenware and a woven stool.\"><img src=\"uploads/2025/893614064a.jpg\" width=\"600\" height=\"399\" alt=\"A rustic wooden house with a lattice design sits next to a wooden fence, set against a backdrop of majestic mountains.\"><img src=\"uploads/2025/f5f842cbc8.jpg\" width=\"600\" height=\"399\" alt=\"A group of children is playing with a ball in a courtyard while an older person watches them.\"><img src=\"uploads/2025/84498b2423.jpg\" width=\"600\" height=\"399\" alt=\"A small child in a traditional outfit sits on the floor, while three adults are gathered in conversation inside a rustic room.\"><img src=\"uploads/2025/60c6124a3a.jpg\" width=\"600\" height=\"399\" alt=\"Three children dressed in colorful traditional attire are sitting and standing on a wooden porch.\"><img src=\"uploads/2025/9fca8f72f3.jpg\" width=\"600\" height=\"399\" alt=\"A woman is preparing traditional flatbreads on a cooking surface with various kitchen items around her.\"><img src=\"uploads/2025/e9a46b3f11.jpg\" width=\"600\" height=\"399\" alt=\"An older person wearing colorful clothing and sunglasses sits contentedly inside a rustic, cozy space with patterned textiles.\">\n",
+				"content_text": "A few days late, maybe I'm getting tired of all this time on the road, but had to share the days spent in the Kalash Valleys! \n\n<img src=\"https://t3mujin.micro.blog/uploads/2025/69c1ad1cce.jpg\" width=\"600\" height=\"399\" alt=\"In a dimly lit room with shafts of light filtering through, a person stands silhouetted in front of a fire, while another sits nearby.\"><img src=\"https://t3mujin.micro.blog/uploads/2025/f75ec4e394.jpg\" width=\"600\" height=\"399\" alt=\"Two people in traditional clothing stand on a rocky terrain with mountains and greenery in the background, engaged in an activity with strings or ropes.\"><img src=\"https://t3mujin.micro.blog/uploads/2025/83a269201c.jpg\" width=\"600\" height=\"399\" alt=\"A rustic kitchen features a central wood-burning stove with teapots on top, surrounded by traditional kitchenware and a cozy seating area with cushions on the floor.\"><img src=\"https://t3mujin.micro.blog/uploads/2025/5c937c44c0.jpg\" width=\"600\" height=\"399\" alt=\"A person wearing traditional attire and a hat is sitting pensively in a rustic room with kitchenware and a woven stool.\"><img src=\"https://t3mujin.micro.blog/uploads/2025/893614064a.jpg\" width=\"600\" height=\"399\" alt=\"A rustic wooden house with a lattice design sits next to a wooden fence, set against a backdrop of majestic mountains.\"><img src=\"https://t3mujin.micro.blog/uploads/2025/f5f842cbc8.jpg\" width=\"600\" height=\"399\" alt=\"A group of children is playing with a ball in a courtyard while an older person watches them.\"><img src=\"https://t3mujin.micro.blog/uploads/2025/84498b2423.jpg\" width=\"600\" height=\"399\" alt=\"A small child in a traditional outfit sits on the floor, while three adults are gathered in conversation inside a rustic room.\"><img src=\"https://t3mujin.micro.blog/uploads/2025/60c6124a3a.jpg\" width=\"600\" height=\"399\" alt=\"Three children dressed in colorful traditional attire are sitting and standing on a wooden porch.\"><img src=\"https://t3mujin.micro.blog/uploads/2025/9fca8f72f3.jpg\" width=\"600\" height=\"399\" alt=\"A woman is preparing traditional flatbreads on a cooking surface with various kitchen items around her.\"><img src=\"https://t3mujin.micro.blog/uploads/2025/e9a46b3f11.jpg\" width=\"600\" height=\"399\" alt=\"An older person wearing colorful clothing and sunglasses sits contentedly inside a rustic, cozy space with patterned textiles.\">\n",
 				"date_published": "2025-07-21T12:40:17+00:00",
 				"url": "https://t3mujin.blog/2025/07/21/a-few-days-late-maybe/",
 				"tags": ["Photos","On The Go Snaps","Microposts"]
@@ -3213,7 +3231,7 @@
 			{
 				"id": "http://t3mujin.micro.blog/2025/01/26/in-stormy-sundays-you-can/",
 				
-				"content_html": "<p>In stormy Sundays you can always go back to the stuff you have from sunny days, like just a week ago.</p>\n<p><img src=\"https://t3mujin.micro.blog/uploads/2025/lisboa-2025291194.jpg\" alt=\"A person walks down a graffiti-covered stairwell illuminated by red lighting.\"></p>\n<p><img src=\"https://t3mujin.micro.blog/uploads/2025/lisboa-2025291176.jpg\" alt=\"Ice cream flavors such as Coconut & Caramel, Hazelnut Praline, Black Sesame, Red Fruit Sorbet, and Cookies & Cream are written on a glass display in front of empty metal containers.\"></p>\n<p><img src=\"https://t3mujin.micro.blog/uploads/2025/lisboa-2025291191.jpg\" alt=\"A weathered urban scene features a cracked wall with graffiti and various posters, set against a clear sky and adjacent to a traffic light.\"></p>\n<p><img src=\"https://t3mujin.micro.blog/uploads/2025/lisboa-2025291188.jpg\" alt=\"Green public restrooms and a trash bin are situated on a cobblestone sidewalk, with a large advertisement for Marvila Collection on a building in the background.\"></p>\n<p><img src=\"https://t3mujin.micro.blog/uploads/2025/lisboa-2025291186.jpg\" alt=\"Two people are walking along a sunlit street with a textured white wall and their shadows cast on it.\"></p>\n",
+				"content_html": "<p>In stormy Sundays you can always go back to the stuff you have from sunny days, like just a week ago.</p>\n<p><img src=\"https://t3mujin.micro.blog/uploads/2025/lisboa-2025291194.jpg\" alt=\"A person walks down a graffiti-covered stairwell illuminated by red lighting.\"></p>\n<p><img src=\"https://t3mujin.micro.blog/uploads/2025/lisboa-2025291176.jpg\" alt=\"Ice cream flavors such as Coconut &amp; Caramel, Hazelnut Praline, Black Sesame, Red Fruit Sorbet, and Cookies &amp; Cream are written on a glass display in front of empty metal containers.\"></p>\n<p><img src=\"https://t3mujin.micro.blog/uploads/2025/lisboa-2025291191.jpg\" alt=\"A weathered urban scene features a cracked wall with graffiti and various posters, set against a clear sky and adjacent to a traffic light.\"></p>\n<p><img src=\"https://t3mujin.micro.blog/uploads/2025/lisboa-2025291188.jpg\" alt=\"Green public restrooms and a trash bin are situated on a cobblestone sidewalk, with a large advertisement for Marvila Collection on a building in the background.\"></p>\n<p><img src=\"https://t3mujin.micro.blog/uploads/2025/lisboa-2025291186.jpg\" alt=\"Two people are walking along a sunlit street with a textured white wall and their shadows cast on it.\"></p>\n",
 				"content_text": "In stormy Sundays you can always go back to the stuff you have from sunny days, like just a week ago.\n\n![A person walks down a graffiti-covered stairwell illuminated by red lighting.](https://t3mujin.micro.blog/uploads/2025/lisboa-2025291194.jpg)\n\n![Ice cream flavors such as Coconut & Caramel, Hazelnut Praline, Black Sesame, Red Fruit Sorbet, and Cookies & Cream are written on a glass display in front of empty metal containers.](https://t3mujin.micro.blog/uploads/2025/lisboa-2025291176.jpg)\n\n![A weathered urban scene features a cracked wall with graffiti and various posters, set against a clear sky and adjacent to a traffic light.](https://t3mujin.micro.blog/uploads/2025/lisboa-2025291191.jpg)\n\n![Green public restrooms and a trash bin are situated on a cobblestone sidewalk, with a large advertisement for Marvila Collection on a building in the background.](https://t3mujin.micro.blog/uploads/2025/lisboa-2025291188.jpg)\n\n![Two people are walking along a sunlit street with a textured white wall and their shadows cast on it.](https://t3mujin.micro.blog/uploads/2025/lisboa-2025291186.jpg)\n",
 				"date_published": "2025-01-26T15:23:44+00:00",
 				"url": "https://t3mujin.blog/2025/01/26/in-stormy-sundays-you-can/",
@@ -3870,7 +3888,7 @@
 			{
 				"id": "http://t3mujin.micro.blog/2024/10/27/estgio-para-mais-logo-the/",
 				
-				"content_html": "<p>Estágio para mais logo!</p>\n<p><a href=\"https://www.youtube.com/watch?v=MPfG9stlr1M\">&ldquo;The Murder Capital - Full Performance Live on KEXP)&quot;</a></p>\n",
+				"content_html": "<p>Estágio para mais logo!</p>\n<p><a href=\"https://www.youtube.com/watch?v=MPfG9stlr1M\">&ldquo;The Murder Capital - Full Performance Live on KEXP)&rdquo;</a></p>\n",
 				"content_text": "Estágio para mais logo!\n\n[\"The Murder Capital - Full Performance Live on KEXP)\"](https://www.youtube.com/watch?v=MPfG9stlr1M)\n",
 				"date_published": "2024-10-27T16:35:09+00:00",
 				"url": "https://t3mujin.blog/2024/10/27/estgio-para-mais-logo-the/",
@@ -3888,7 +3906,7 @@
 			{
 				"id": "http://t3mujin.micro.blog/2024/10/21/when-you-go-to-a/",
 				
-				"content_html": "<p>When you go to a festival to watch one of old time favorites, and return with something new on repeat!</p>\n<p><a href=\"https://www.youtube.com/embed/2dlF14HSKjk\">&ldquo;MUSIC IN LOW FREQUENCIES - &lsquo;Unconsciousness&rsquo; (official music video)&quot;</a></p>\n",
+				"content_html": "<p>When you go to a festival to watch one of old time favorites, and return with something new on repeat!</p>\n<p><a href=\"https://www.youtube.com/embed/2dlF14HSKjk\">&ldquo;MUSIC IN LOW FREQUENCIES - &lsquo;Unconsciousness&rsquo; (official music video)&rdquo;</a></p>\n",
 				"content_text": "When you go to a festival to watch one of old time favorites, and return with something new on repeat!\n\n[\"MUSIC IN LOW FREQUENCIES - 'Unconsciousness' (official music video)\"](https://www.youtube.com/embed/2dlF14HSKjk)\n",
 				"date_published": "2024-10-21T11:31:18+00:00",
 				"url": "https://t3mujin.blog/2024/10/21/when-you-go-to-a/",
@@ -3942,7 +3960,7 @@
 			{
 				"id": "http://t3mujin.micro.blog/2024/10/14/the-very-early-years-of/",
 				
-				"content_html": "<p>The very early years of English football are filled with cool stories like this!</p>\n<p><a href=\"https://www.youtube.com/embed/oeQE31sehuI\">&ldquo;Why did Everton move from Anfield to Goodison Park?&quot;</a></p>\n",
+				"content_html": "<p>The very early years of English football are filled with cool stories like this!</p>\n<p><a href=\"https://www.youtube.com/embed/oeQE31sehuI\">&ldquo;Why did Everton move from Anfield to Goodison Park?&rdquo;</a></p>\n",
 				"content_text": "The very early years of English football are filled with cool stories like this!\n\n[\"Why did Everton move from Anfield to Goodison Park?\"](https://www.youtube.com/embed/oeQE31sehuI)\n",
 				"date_published": "2024-10-14T12:05:14+00:00",
 				"url": "https://t3mujin.blog/2024/10/14/the-very-early-years-of/",
@@ -4023,7 +4041,7 @@
 			{
 				"id": "http://t3mujin.micro.blog/2024/10/01/an-hour-long-video-only/",
 				
-				"content_html": "<p>An 1 hour long video only with two guys talking about photo sequencing?&hellip; Hell yeah!</p>\n<p><a href=\"https://www.youtube.com/watch?v=gZrqfAuCwxU\">&ldquo;How To Edit and Sequence Photo Projects &amp; Books (ft. Noah Waldeck)&quot;</a></p>\n",
+				"content_html": "<p>An 1 hour long video only with two guys talking about photo sequencing?&hellip; Hell yeah!</p>\n<p><a href=\"https://www.youtube.com/watch?v=gZrqfAuCwxU\">&ldquo;How To Edit and Sequence Photo Projects &amp; Books (ft. Noah Waldeck)&rdquo;</a></p>\n",
 				"content_text": "An 1 hour long video only with two guys talking about photo sequencing?... Hell yeah!\n\n[\"How To Edit and Sequence Photo Projects & Books (ft. Noah Waldeck)\"](https://www.youtube.com/watch?v=gZrqfAuCwxU)\n",
 				"date_published": "2024-10-01T14:25:13+00:00",
 				"url": "https://t3mujin.blog/2024/10/01/an-hour-long-video-only/",
@@ -4086,7 +4104,7 @@
 			{
 				"id": "http://t3mujin.micro.blog/2024/09/24/an-hour-long-video-only/",
 				
-				"content_html": "<p>An 1 hour long video only with two guys talking about photo sequencing?&hellip; Hell yeah!</p>\n<p><a href=\"http://www.youtube.com/watch?v=gZrqfAuCwxU\">&ldquo;How To Edit and Sequence Photo Projects &amp; Books (ft. Noah Waldeck)&quot;</a></p>\n",
+				"content_html": "<p>An 1 hour long video only with two guys talking about photo sequencing?&hellip; Hell yeah!</p>\n<p><a href=\"http://www.youtube.com/watch?v=gZrqfAuCwxU\">&ldquo;How To Edit and Sequence Photo Projects &amp; Books (ft. Noah Waldeck)&rdquo;</a></p>\n",
 				"content_text": "An 1 hour long video only with two guys talking about photo sequencing?... Hell yeah!\n\n[\"How To Edit and Sequence Photo Projects & Books (ft. Noah Waldeck)\"](http://www.youtube.com/watch?v=gZrqfAuCwxU)\n",
 				"date_published": "2024-09-24T12:05:09+00:00",
 				"url": "https://t3mujin.blog/2024/09/24/an-hour-long-video-only/",
@@ -4365,7 +4383,7 @@
 			{
 				"id": "http://t3mujin.micro.blog/2024/08/26/aleixosabedoria-nunca-durmas-todo-nu/",
 				
-				"content_html": "<p>Aleixosabedoria&hellip;</p>\n<p><a href=\"https://www.instagram.com/p/C_IE8A7AwfO/\">&ldquo;Nunca durmas todo nu(&hellip;)&quot;</a></p>\n",
+				"content_html": "<p>Aleixosabedoria&hellip;</p>\n<p><a href=\"https://www.instagram.com/p/C_IE8A7AwfO/\">&ldquo;Nunca durmas todo nu(&hellip;)&rdquo;</a></p>\n",
 				"content_text": "Aleixosabedoria...\r\n\r\n[\"Nunca durmas todo nu(...)\"](https://www.instagram.com/p/C_IE8A7AwfO/)\n",
 				"date_published": "2024-08-26T08:51:37+00:00",
 				"url": "https://t3mujin.blog/2024/08/26/aleixosabedoria-nunca-durmas-todo-nu/",
@@ -4428,7 +4446,7 @@
 			{
 				"id": "http://t3mujin.micro.blog/2024/08/20/until-now-i-still-feel/",
 				
-				"content_html": "<p>Until now I still feel that my old desktop runs smoother on XOrg, every time I switch to Wayland I end up switching back. Could this be the it?</p>\n<p><a href=\"https://www.phoronix.com/news/Ubuntu-Fixes-EGLDevice-GNOME\">&ldquo;Ubuntu Fixes Old NVIDIA Wayland Support For GNOME, Hiring More Desktop Engi…&quot;</a></p>\n",
+				"content_html": "<p>Until now I still feel that my old desktop runs smoother on XOrg, every time I switch to Wayland I end up switching back. Could this be the it?</p>\n<p><a href=\"https://www.phoronix.com/news/Ubuntu-Fixes-EGLDevice-GNOME\">&ldquo;Ubuntu Fixes Old NVIDIA Wayland Support For GNOME, Hiring More Desktop Engi…&rdquo;</a></p>\n",
 				"content_text": "Until now I still feel that my old desktop runs smoother on XOrg, every time I switch to Wayland I end up switching back. Could this be the it?\n\n[\"Ubuntu Fixes Old NVIDIA Wayland Support For GNOME, Hiring More Desktop Engi…\"](https://www.phoronix.com/news/Ubuntu-Fixes-EGLDevice-GNOME)\n",
 				"date_published": "2024-08-20T13:00:58+00:00",
 				"url": "https://t3mujin.blog/2024/08/20/until-now-i-still-feel/",
@@ -4563,7 +4581,7 @@
 			{
 				"id": "http://t3mujin.micro.blog/2024/07/29/despite-not-being-a-parent/",
 				
-				"content_html": "<p>Despite not being a parent I can relate with this a lot: as a trip gets closer an anxiety starts to creep inside me, until it burts when I depart. Every single trip, like now&hellip;</p>\n<p><a href=\"https://www.afar.com/magazine/how-to-cope-with-pre-travel-stress-and-anxiety\">&ldquo;I’m a Travel Editor Who Gets Major Pre-Trip Anxiety. These Are My Coping Tools.&quot;</a></p>\n",
+				"content_html": "<p>Despite not being a parent I can relate with this a lot: as a trip gets closer an anxiety starts to creep inside me, until it burts when I depart. Every single trip, like now&hellip;</p>\n<p><a href=\"https://www.afar.com/magazine/how-to-cope-with-pre-travel-stress-and-anxiety\">&ldquo;I’m a Travel Editor Who Gets Major Pre-Trip Anxiety. These Are My Coping Tools.&rdquo;</a></p>\n",
 				"content_text": "Despite not being a parent I can relate with this a lot: as a trip gets closer an anxiety starts to creep inside me, until it burts when I depart. Every single trip, like now...\n\n[\"I’m a Travel Editor Who Gets Major Pre-Trip Anxiety. These Are My Coping Tools.\"](https://www.afar.com/magazine/how-to-cope-with-pre-travel-stress-and-anxiety)\n",
 				"date_published": "2024-07-29T12:54:34+00:00",
 				"url": "https://t3mujin.blog/2024/07/29/despite-not-being-a-parent/",
@@ -4896,7 +4914,7 @@
 			{
 				"id": "http://t3mujin.micro.blog/2024/06/11/a-terminar-de-ver-o/",
 				
-				"content_html": "<p>A terminar de ver o último episódio d' &ldquo;A Conspiração&rdquo;, que documento histórico do caraças!!</p>\n",
+				"content_html": "<p>A terminar de ver o último episódio d&rsquo; &ldquo;A Conspiração&rdquo;, que documento histórico do caraças!!</p>\n",
 				"content_text": "A terminar de ver o último episódio d' \"A Conspiração\", que documento histórico do caraças!! \n",
 				"date_published": "2024-06-10T20:54:10+00:00",
 				"url": "https://t3mujin.blog/2024/06/11/a-terminar-de-ver-o/",
@@ -5004,7 +5022,7 @@
 			{
 				"id": "http://t3mujin.micro.blog/2024/05/26/ehhhh-no-can-the-product/",
 				
-				"content_html": "<p>Ehhhh&hellip; No!</p>\n<p><a href=\"https://www.mountaingoatsoftware.com/blog/scrummasters-should-not-also-be-product-owners\">&ldquo;Can the Product Owner and the Scrum Master Be the Same Person?&quot;</a></p>\n",
+				"content_html": "<p>Ehhhh&hellip; No!</p>\n<p><a href=\"https://www.mountaingoatsoftware.com/blog/scrummasters-should-not-also-be-product-owners\">&ldquo;Can the Product Owner and the Scrum Master Be the Same Person?&rdquo;</a></p>\n",
 				"content_text": "Ehhhh... No!\n\n[\"Can the Product Owner and the Scrum Master Be the Same Person?\"](https://www.mountaingoatsoftware.com/blog/scrummasters-should-not-also-be-product-owners)\n",
 				"date_published": "2024-05-26T07:00:42+00:00",
 				"url": "https://t3mujin.blog/2024/05/26/ehhhh-no-can-the-product/",
@@ -5382,7 +5400,7 @@
 			{
 				"id": "http://t3mujin.micro.blog/2024/04/07/sunday-morning-chillin-before-returning/",
 				
-				"content_html": "<p>Sunday morning chillin' before returning home&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Sunday morning chillin&rsquo; before returning home&hellip;</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Sunday morning chillin' before returning home...\n\n<img src=\"https://t3mujin.micro.blog/uploads/2024/ca0608c5d4.jpg\" width=\"600\" height=\"450\" alt=\"Clouds reflection on glass table \">\n",
 				"date_published": "2024-04-07T09:54:02+00:00",
 				"url": "https://t3mujin.blog/2024/04/07/sunday-morning-chillin-before-returning/",
@@ -5715,7 +5733,7 @@
 			{
 				"id": "http://t3mujin.micro.blog/2024/02/05/it-turns-us-into-the/",
 				
-				"content_html": "<p><em>&ldquo;It turns us into the worst version of ourselves while convincing us that we’re at our best.&quot;</em></p>\n<p>Despite travelling I&rsquo;ve started to grow a kind of love/hate relationship with it, and this article kind hits the nail on many of my dilemmas. At some point I thought that travel makes us more tolerant, by having a wider perspective and experience other realities, and while that&rsquo;s not wrong it isn&rsquo;t as straightforward as I once believed. Often is more self-centred that people like to say (and I&rsquo;m including myself in it&hellip;), both for the one who travelled or those back home: the questions usually are more in the &ldquo;what have you done?&rdquo; than the &ldquo;what&rsquo;s it like?&rdquo;, and I don&rsquo;t really like love talking about myself.</p>\n<p><a href=\"https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel\">The Case Against Travel - https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel</a></p>\n",
+				"content_html": "<p><em>&ldquo;It turns us into the worst version of ourselves while convincing us that we’re at our best.&rdquo;</em></p>\n<p>Despite travelling I&rsquo;ve started to grow a kind of love/hate relationship with it, and this article kind hits the nail on many of my dilemmas. At some point I thought that travel makes us more tolerant, by having a wider perspective and experience other realities, and while that&rsquo;s not wrong it isn&rsquo;t as straightforward as I once believed. Often is more self-centred that people like to say (and I&rsquo;m including myself in it&hellip;), both for the one who travelled or those back home: the questions usually are more in the &ldquo;what have you done?&rdquo; than the &ldquo;what&rsquo;s it like?&rdquo;, and I don&rsquo;t really like love talking about myself.</p>\n<p><a href=\"https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel\">The Case Against Travel - https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel</a></p>\n",
 				"content_text": "_\"It turns us into the worst version of ourselves while convincing us that we’re at our best.\"_\r\n\r\nDespite travelling I've started to grow a kind of love/hate relationship with it, and this article kind hits the nail on many of my dilemmas. At some point I thought that travel makes us more tolerant, by having a wider perspective and experience other realities, and while that's not wrong it isn't as straightforward as I once believed. Often is more self-centred that people like to say (and I'm including myself in it...), both for the one who travelled or those back home: the questions usually are more in the \"what have you done?\" than the \"what's it like?\", and I don't really like love talking about myself. \r\n\r\n[The Case Against Travel - https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)\r\n\r\n",
 				"date_published": "2024-02-05T11:36:50+00:00",
 				"url": "https://t3mujin.blog/2024/02/05/it-turns-us-into-the/",
