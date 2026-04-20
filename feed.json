@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/04/20/the-attacker-must-convince-the/",
+				
+				"content_html": "<blockquote>\n<p>(&hellip;) the attacker must convince the target to manually toggle the community plugin</p>\n</blockquote>\n<p>Not that hard, enabling this is one of the first things an Obsidian user does. Having a thriving community of addons means this is inevitable.</p>\n<p><a href=\"https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html\">thehackernews.com/2026/04/o&hellip;</a></p>\n",
+				"content_text": "> (...) the attacker must convince the target to manually toggle the community plugin\n\nNot that hard, enabling this is one of the first things an Obsidian user does. Having a thriving community of addons means this is inevitable.\n\n[thehackernews.com/2026/04/o...](https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html)\n",
+				"date_published": "2026-04-20T10:52:02+01:00",
+				"url": "https://t3mujin.blog/2026/04/20/the-attacker-must-convince-the/",
+				"tags": ["Geek stuff","Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/04/15/enquanto-pelas-redes-fora-h/",
 				
 				"content_html": "<p>Enquanto pelas redes fora há protestos e queixas (com razão) de mais uma bujarda imbecil da Cristina na TV, nas redes dela nem uma palavra sobre isto. Mas não faltam fotos e links das bugigangas que ela vende, é como dizem: não há má publicidade&hellip;</p>\n",
@@ -82,7 +91,7 @@
 				"id": "http://t3mujin.micro.blog/2026/04/12/113519/",
 				
 				"content_html": "<p>€1.60</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "€1.60\n\n<img src=\"uploads/2026/fb313d3bbf.jpg\" width=\"451\" height=\"600\" alt=\"Several butternut squashes are displayed with blue numbers written on them.\">\n",
+				"content_text": "€1.60\n\n<img src=\"https://eu.uploads.micro.blog/33187/2026/fb313d3bbf.jpg\" width=\"451\" height=\"600\" alt=\"Several butternut squashes are displayed with blue numbers written on them.\">\n",
 				"date_published": "2026-04-12T11:35:19+01:00",
 				"url": "https://t3mujin.blog/2026/04/12/113519/",
 				"tags": ["Photos","Microposts"]
