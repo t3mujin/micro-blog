@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/04/21/this-kind-is-one-of/",
+				
+				"content_html": "<p>This kind is one of the big why I want to go to Japan.</p>\n<p><a href=\"https://www.tokyotimes.org/more-tokyo-people-and-places/\">More Tokyo people and places</a></p>\n",
+				"content_text": "This kind is one of the big why I want to go to Japan. \n\n[More Tokyo people and places](https://www.tokyotimes.org/more-tokyo-people-and-places/)\n",
+				"date_published": "2026-04-21T11:47:17+01:00",
+				"url": "https://t3mujin.blog/2026/04/21/this-kind-is-one-of/",
+				"tags": ["Photog stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/04/20/not-so-much-about-the/",
+				
+				"content_html": "<p>Not so much about the article itself, but about the photo. It&rsquo;s great in so many ways!</p>\n<p><a href=\"https://www.publico.pt/2026/04/19/mundo/noticia/administracao-trump-intensifica-retorica-religiosa-proselitismo-2171800\">www.publico.pt/2026/04/1&hellip;</a></p>\n",
+				"content_text": "Not so much about the article itself, but about the photo. It's great in so many ways! \n\n[www.publico.pt/2026/04/1...](https://www.publico.pt/2026/04/19/mundo/noticia/administracao-trump-intensifica-retorica-religiosa-proselitismo-2171800)\n",
+				"date_published": "2026-04-20T11:02:39+01:00",
+				"url": "https://t3mujin.blog/2026/04/20/not-so-much-about-the/",
+				"tags": ["Photog stuff","Real stuff","Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/04/20/the-attacker-must-convince-the/",
 				
 				"content_html": "<blockquote>\n<p>(&hellip;) the attacker must convince the target to manually toggle the community plugin</p>\n</blockquote>\n<p>Not that hard, enabling this is one of the first things an Obsidian user does. Having a thriving community of addons means this is inevitable.</p>\n<p><a href=\"https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html\">thehackernews.com/2026/04/o&hellip;</a></p>\n",
@@ -91,7 +109,7 @@
 				"id": "http://t3mujin.micro.blog/2026/04/12/113519/",
 				
 				"content_html": "<p>€1.60</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "€1.60\n\n<img src=\"https://eu.uploads.micro.blog/33187/2026/fb313d3bbf.jpg\" width=\"451\" height=\"600\" alt=\"Several butternut squashes are displayed with blue numbers written on them.\">\n",
+				"content_text": "€1.60\n\n<img src=\"uploads/2026/fb313d3bbf.jpg\" width=\"451\" height=\"600\" alt=\"Several butternut squashes are displayed with blue numbers written on them.\">\n",
 				"date_published": "2026-04-12T11:35:19+01:00",
 				"url": "https://t3mujin.blog/2026/04/12/113519/",
 				"tags": ["Photos","Microposts"]
