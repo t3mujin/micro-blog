@@ -7,10 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/04/22/o-senhor-moedas-arranja-sempre/",
+				
+				"content_html": "<p>O Senhor Moedas arranja sempre maneira de <a href=\"https://www.rtp.pt/noticias/pais/quinta-pedagogica-dos-olivais-muda-de-nome-na-celebracao-dos-30-anos_n1734414\">&ldquo;mudar os nomes das coisas&rdquo;</a> para aparecer na foto&hellip; Ao menos o nome não mudou para &ldquo;Quinta dos Unicórnios&rdquo;.</p>\n",
+				"content_text": "O Senhor Moedas arranja sempre maneira de [\"mudar os nomes das coisas\"](https://www.rtp.pt/noticias/pais/quinta-pedagogica-dos-olivais-muda-de-nome-na-celebracao-dos-30-anos_n1734414) para aparecer na foto... Ao menos o nome não mudou para \"Quinta dos Unicórnios\".\n",
+				"date_published": "2026-04-22T11:56:07+01:00",
+				"url": "https://t3mujin.blog/2026/04/22/o-senhor-moedas-arranja-sempre/",
+				"tags": ["Real stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/04/21/o-lder-parlamentar-do-chega/",
+				
+				"content_html": "<p>O líder parlamentar do Chega, agora na RTP, sabe perfeitamente que o candidato presidencial dele foi o único a apresentar a lista de dadores, mas já não tem a certeza se o partido dele entregou contas, que isso era com outro colega que sabia. E é isto, sempre areia para os olhos&hellip;</p>\n",
+				"content_text": "O líder parlamentar do Chega, agora na RTP, sabe perfeitamente que o candidato presidencial dele foi o único a apresentar a lista de dadores, mas já não tem a certeza se o partido dele entregou contas, que isso era com outro colega que sabia. E é isto, sempre areia para os olhos... \n",
+				"date_published": "2026-04-21T22:56:02+01:00",
+				"url": "https://t3mujin.blog/2026/04/21/o-lder-parlamentar-do-chega/",
+				"tags": ["Real stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/04/21/the-guys-at-framework-just/",
+				
+				"content_html": "<p>The guys at Framework just released a new Framework 13 Pro, with updated and beefier specs, and the cool thing is I <a href=\"https://www.youtube.com/watch?v=JSxgCEpkiKM\">can upgrade my current Framework 13</a> if I want to, like getting the new chassis and larger battery. How not to like this?!</p>\n",
+				"content_text": "The guys at Framework just released a new Framework 13 Pro, with updated and beefier specs, and the cool thing is I [can upgrade my current Framework 13](https://www.youtube.com/watch?v=JSxgCEpkiKM) if I want to, like getting the new chassis and larger battery. How not to like this?!\n\n",
+				"date_published": "2026-04-21T20:51:39+01:00",
+				"url": "https://t3mujin.blog/2026/04/21/the-guys-at-framework-just/",
+				"tags": ["Geek stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/04/21/this-is-just-too-many/",
+				
+				"content_html": "<blockquote>\n<p>This is just too many dildos!</p>\n</blockquote>\n<p>I bet no one on Polymarket or Kalshi placed a bet that <a href=\"https://www.youtube.com/watch?v=sxiMe8Dlzlw\">John Oliver</a> would say that on his show!</p>\n",
+				"content_text": "> This is just too many dildos!\n\nI bet no one on Polymarket or Kalshi placed a bet that [John Oliver](https://www.youtube.com/watch?v=sxiMe8Dlzlw) would say that on his show!\n",
+				"date_published": "2026-04-21T18:31:21+01:00",
+				"url": "https://t3mujin.blog/2026/04/21/this-is-just-too-many/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/04/21/this-kind-is-one-of/",
 				
-				"content_html": "<p>This kind is one of the big why I want to go to Japan.</p>\n<p><a href=\"https://www.tokyotimes.org/more-tokyo-people-and-places/\">More Tokyo people and places</a></p>\n",
-				"content_text": "This kind is one of the big why I want to go to Japan. \n\n[More Tokyo people and places](https://www.tokyotimes.org/more-tokyo-people-and-places/)\n",
+				"content_html": "<p>This kind of scene is one of the big reasons why I want to go to Japan.</p>\n<p><a href=\"https://www.tokyotimes.org/more-tokyo-people-and-places/\">More Tokyo people and places</a></p>\n",
+				"content_text": "This kind of scene is one of the big reasons why I want to go to Japan. \n\n[More Tokyo people and places](https://www.tokyotimes.org/more-tokyo-people-and-places/)\n",
 				"date_published": "2026-04-21T11:47:17+01:00",
 				"url": "https://t3mujin.blog/2026/04/21/this-kind-is-one-of/",
 				"tags": ["Photog stuff","Microposts"]
@@ -109,7 +145,7 @@
 				"id": "http://t3mujin.micro.blog/2026/04/12/113519/",
 				
 				"content_html": "<p>€1.60</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "€1.60\n\n<img src=\"uploads/2026/fb313d3bbf.jpg\" width=\"451\" height=\"600\" alt=\"Several butternut squashes are displayed with blue numbers written on them.\">\n",
+				"content_text": "€1.60\n\n<img src=\"https://eu.uploads.micro.blog/33187/2026/fb313d3bbf.jpg\" width=\"451\" height=\"600\" alt=\"Several butternut squashes are displayed with blue numbers written on them.\">\n",
 				"date_published": "2026-04-12T11:35:19+01:00",
 				"url": "https://t3mujin.blog/2026/04/12/113519/",
 				"tags": ["Photos","Microposts"]
