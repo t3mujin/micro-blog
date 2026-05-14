@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/05/14/spoleto-parte-youtube-j-tem/",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=ebe-3s4TLfQ\">&ldquo;SPOLETO - Parte 2 - YouTube&rdquo;</a></p>\n<p>Já tem treze anos, mas sou cada vez mais solidário com essa pessoa!</p>\n",
+				"content_text": "[\"SPOLETO - Parte 2 - YouTube\"](https://www.youtube.com/watch?v=ebe-3s4TLfQ)\n\nJá tem treze anos, mas sou cada vez mais solidário com essa pessoa! \n",
+				"date_published": "2026-05-14T12:26:23+01:00",
+				"url": "https://t3mujin.blog/2026/05/14/spoleto-parte-youtube-j-tem/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/05/13/ir-construir-apartamentos-a-preos/",
+				
+				"content_html": "<blockquote>\n<p><a href=\"https://www.jornaldenegocios.pt/economia/autarquias/detalhe/antiga-sede-do-governo-passa-para-camara-de-lisboa\">(&hellip;) irá construir apartamentos a preços acessíveis para alojar profissionais (&hellip;)</a></p>\n</blockquote>\n<p>Se for como o edifício da 5 de Outubro que iria alojar estudantes&hellip;</p>\n",
+				"content_text": "> [(...) irá construir apartamentos a preços acessíveis para alojar profissionais (...)](https://www.jornaldenegocios.pt/economia/autarquias/detalhe/antiga-sede-do-governo-passa-para-camara-de-lisboa)\n\nSe for como o edifício da 5 de Outubro que iria alojar estudantes... \n",
+				"date_published": "2026-05-13T16:30:22+01:00",
+				"url": "https://t3mujin.blog/2026/05/13/ir-construir-apartamentos-a-preos/",
+				"tags": ["Real stuff","Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/05/12/its-but-we-still-have/",
 				
 				"content_html": "<p>It&rsquo;s 2026, but we still have YouTubers complaining that the Fuji X100 (the VI in this case) doesn&rsquo;t have interchangeable lenses and, in this case, not a good option for someone who wants to be focused on photography. Yes, autofocus isn&rsquo;t awesome, but there&rsquo;s more in photography than that&hellip;</p>\n",
