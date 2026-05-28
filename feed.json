@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/05/28/for-some-reason-obsidian-bases/",
+				
+				"content_html": "<p>For some reason Obsidian Bases embedded on a note appear broken on mobile in portrait mode, appearing wider than the screen. If that&rsquo;s the case with you also: add a css file with this in your .obsidian/snippets folder.</p>\n<pre tabindex=\"0\"><code>.is-phone { \n  --bases-embed-width: 100%; \n  --bases-embed-transform: none;\n}\n</code></pre>",
+				"content_text": "For some reason Obsidian Bases embedded on a note appear broken on mobile in portrait mode, appearing wider than the screen. If that's the case with you also: add a css file with this in your .obsidian/snippets folder.\n \n```\n.is-phone { \n  --bases-embed-width: 100%; \n  --bases-embed-transform: none;\n}\n```\n",
+				"date_published": "2026-05-28T18:39:39+01:00",
+				"url": "https://t3mujin.blog/2026/05/28/for-some-reason-obsidian-bases/",
+				"tags": ["Geek stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/05/25/eventually-ferrari-went-electric-and/",
+				
+				"content_html": "<p>Eventually <a href=\"https://www.engadget.com/2180674/ferrari-luce-first-look-jony-ive/\">&ldquo;Ferrari went electric&rdquo;</a>, and if it wasn&rsquo;t the prancing horse logo&hellip; Well, grabbing one from the comments section:</p>\n<blockquote>\n<p>That Ferrari is the nicest looking Kia I’ve ever seen.</p>\n</blockquote>\n",
+				"content_text": "Eventually [\"Ferrari went electric\"](https://www.engadget.com/2180674/ferrari-luce-first-look-jony-ive/), and if it wasn't the prancing horse logo... Well, grabbing one from the comments section:\n\n> That Ferrari is the nicest looking Kia I’ve ever seen.\n",
+				"date_published": "2026-05-25T22:48:39+01:00",
+				"url": "https://t3mujin.blog/2026/05/25/eventually-ferrari-went-electric-and/",
+				"tags": ["Geek stuff","Fun stuff","Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/05/25/somehow-and-in-a-weird/",
 				
 				"content_html": "<p>Somehow, and in a weird way, I kind of miss the time of the pandemic. Not the pandemic itself obviously, but there was something naive about that time.</p>\n<p><a href=\"https://www.youtube.com/watch?v=2wpKP72YE0s&amp;list=RD2wpKP72YE0s&amp;start_radio=1\">&ldquo;Emma Ruth Rundle + Mastodon + YOB + Old Man Gloom cover Kate Bush&rsquo;s &ldquo;Running Up That Hill&rdquo; - YouTube&rdquo;</a></p>\n",
