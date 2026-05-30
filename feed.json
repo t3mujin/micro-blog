@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/05/30/o-destaque-que-aparece-quando/",
+				
+				"content_html": "<p>O destaque que aparece quando se abre o site de A Bola é que a namorada do João Neves lhe deu os parabéns.</p>\n<p>Se havia dúvidas que os jornais desportivos clássicos se estavam a tornar em imprensa cor-de-rosa&hellip;</p>\n",
+				"content_text": "O destaque que aparece quando se abre o site de A Bola é que a namorada do João Neves lhe deu os parabéns. \n\nSe havia dúvidas que os jornais desportivos clássicos se estavam a tornar em imprensa cor-de-rosa...\n",
+				"date_published": "2026-05-30T23:51:28+01:00",
+				"url": "https://t3mujin.blog/2026/05/30/o-destaque-que-aparece-quando/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/05/28/for-some-reason-obsidian-bases/",
 				
 				"content_html": "<p>For some reason Obsidian Bases embedded on a note appear broken on mobile in portrait mode, appearing wider than the screen. If that&rsquo;s the case with you also: add a css file with this in your .obsidian/snippets folder.</p>\n<pre tabindex=\"0\"><code>.is-phone { \n  --bases-embed-width: 100%; \n  --bases-embed-transform: none;\n}\n</code></pre>",
