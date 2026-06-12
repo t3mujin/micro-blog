@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/06/12/new-song-from-cult-of/",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=-A83MKfSyeQ\">New song from Cult of Luna</a>? Yes, please!!!</p>\n",
+				"content_text": "[New song from Cult of Luna](https://www.youtube.com/watch?v=-A83MKfSyeQ)? Yes, please!!!\n",
+				"date_published": "2026-06-12T14:01:20+01:00",
+				"url": "https://t3mujin.blog/2026/06/12/new-song-from-cult-of/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/06/11/h-muita-malta-a-destilar/",
+				
+				"content_html": "<p>Há muita malta a destilar ódio nos canais de notícias portugueses, mas o campeão deles todos é bem capaz de ser o Irineu do Now, que está mortinho por uma invasão por terra do Irão.</p>\n",
+				"content_text": "Há muita malta a destilar ódio nos canais de notícias portugueses, mas o campeão deles todos é bem capaz de ser o Irineu do Now, que está mortinho por uma invasão por terra do Irão. \n",
+				"date_published": "2026-06-11T14:09:53+01:00",
+				"url": "https://t3mujin.blog/2026/06/11/h-muita-malta-a-destilar/",
+				"tags": ["Real stuff","Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/06/11/h-alguns-anos-pude-ver/",
 				
 				"content_html": "<p>Há alguns anos pude ver este lindíssimo &ldquo;Baptismos da Meia Noite&rdquo; do Joan Alvado exposto nos Encontros de Imagem em Braga, e nem era uma das exposições que estava no meu radar, fui porque alguém disse que não podia perder. Agora que passou a livro não o podia perder!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -144,8 +162,8 @@
 			{
 				"id": "http://t3mujin.micro.blog/2026/05/11/that-time-of-the-year/",
 				
-				"content_html": "<p>That time of the year again&hellip; 😊 🍒</p>\n<p><img src=\"https://eu.uploads.micro.blog/33187/2026/d8e93fe36b.jpg\" alt=\"Cherries \"></p>\n",
-				"content_text": "That time of the year again... 😊 🍒 \n\n![Cherries ](https://eu.uploads.micro.blog/33187/2026/d8e93fe36b.jpg)\n",
+				"content_html": "<p>That time of the year again&hellip; 😊 🍒</p>\n<p><img src=\"https://t3mujin.blog/uploads/2026/d8e93fe36b.jpg\" alt=\"Cherries \"></p>\n",
+				"content_text": "That time of the year again... 😊 🍒 \n\n![Cherries ](https://t3mujin.blog/uploads/2026/d8e93fe36b.jpg)\n",
 				"date_published": "2026-05-11T16:44:52+01:00",
 				"url": "https://t3mujin.blog/2026/05/11/that-time-of-the-year/",
 				"tags": ["Microposts"]
