@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/07/07/eu-acho-a-livemodetv-excelente/",
+				
+				"content_html": "<blockquote>\n<p>Eu acho a LiveModeTV excelente para quem não gosta de futebol, porque às vezes estão horas e horas sem dizer nada sobre isso.</p>\n</blockquote>\n<p>Obviamente a Joana Marques tinha de falar sobre a LiveModeTV, e obviamente não seria apenas um episódio!</p>\n",
+				"content_text": "> Eu acho a LiveModeTV excelente para quem não gosta de futebol, porque às vezes estão horas e horas sem dizer nada sobre isso.\n\nObviamente a Joana Marques tinha de falar sobre a LiveModeTV, e obviamente não seria apenas um episódio!\n",
+				"date_published": "2026-07-07T19:25:37+01:00",
+				"url": "https://t3mujin.blog/2026/07/07/eu-acho-a-livemodetv-excelente/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/07/06/e-para-surpresa-de-zero/",
+				
+				"content_html": "<p>E para surpresa de zero pessoas: Pedro Neto hoje a titular&hellip;</p>\n",
+				"content_text": "E para surpresa de zero pessoas: Pedro Neto hoje a titular...\n",
+				"date_published": "2026-07-06T19:17:00+01:00",
+				"url": "https://t3mujin.blog/2026/07/06/e-para-surpresa-de-zero/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/07/06/plenty-has-been-said-about/",
 				
 				"content_html": "<p>Plenty has been said about Balogun&rsquo;s red card, or the lack of it, but obviously <a href=\"https://x.com/atrupar/status/2074136347967619337/video/1\">Trump beats everything</a> by saying he knows a lot about sports and that he doesn&rsquo;t know what a red card is&hellip; in the same sentence&hellip;</p>\n",
@@ -37,7 +55,7 @@
 				"id": "http://t3mujin.micro.blog/2026/07/05/really-need-a-friend-with/",
 				
 				"content_html": "<p>Really need a friend with AC&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Really need a friend with AC... \n\n<img src=\"uploads/2026/ccecb1a81d.jpg\" width=\"600\" height=\"521\" alt=\"The weather forecast shows a clear and sunny day with a current temperature of 37°C, no chance of precipitation, and hourly temperatures gradually decreasing from 35°C at 18:00 to 29°C at 22:00.\">\n",
+				"content_text": "Really need a friend with AC... \n\n<img src=\"https://eu.uploads.micro.blog/33187/2026/ccecb1a81d.jpg\" width=\"600\" height=\"521\" alt=\"The weather forecast shows a clear and sunny day with a current temperature of 37°C, no chance of precipitation, and hourly temperatures gradually decreasing from 35°C at 18:00 to 29°C at 22:00.\">\n",
 				"date_published": "2026-07-05T18:29:05+01:00",
 				"url": "https://t3mujin.blog/2026/07/05/really-need-a-friend-with/",
 				"tags": ["Photos","Fun stuff","Microposts"]
