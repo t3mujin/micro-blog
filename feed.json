@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/07/10/one-less-contact-lens/",
+				
+				"content_html": "<p>One less contact lens&hellip;</p>\n",
+				"content_text": "One less contact lens... \n",
+				"date_published": "2026-07-10T09:07:16+01:00",
+				"url": "https://t3mujin.blog/2026/07/10/one-less-contact-lens/",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/07/09/o-jogo-de-hoje-mete/",
+				
+				"content_html": "<p>O Jogo de hoje mete duas seleções que não gosto particularmente e contras as quais Portugal tem uma mala-pata. Por isso por mim perdiam ambos, só que uma dessas é a França, por isso seria bonito que Marrocos fizesse um brilharete&hellip;.</p>\n",
+				"content_text": "O Jogo de hoje mete duas seleções que não gosto particularmente e contras as quais Portugal tem uma mala-pata. Por isso por mim perdiam ambos, só que uma dessas é a França, por isso seria bonito que Marrocos fizesse um brilharete.... \n",
+				"date_published": "2026-07-09T20:25:49+01:00",
+				"url": "https://t3mujin.blog/2026/07/09/o-jogo-de-hoje-mete/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/07/09/its-time-to-rethink-your/",
+				"title": "It's time to rethink your online privacy, if you live in the EU...",
+				"content_html": "<p>The way <a href=\"https://euperspectives.eu/2026/07/parliament-forced-back-to-the-chat-control-question/\">how <strong>Chat Control 1.0</strong> was approved today (after it being rejected twice and using behind-the-scenes tricks to force it to be approved)</a> is a fine example that politicians, when really committed, can get things moving&hellip;\nIt&rsquo;s is a worring day for privacy in Europe, as it opens way to the very dangerous <strong>Chat Control 2.0</strong> that will enforce things like providers having to scan ALL messages and ALL media being transferred.<br>\nNot all is lost, as <a href=\"https://fightchatcontrol.eu/chat-control-overview\">Chat Control 2.0 hasn&rsquo;t been approved yet</a>, but it&rsquo;s clearly a turning point, because it&rsquo;s time to take a stand to block it, but also to start reassessing the tools we use in our online everyday life&hellip;</p>\n",
+				"content_text": "The way [how **Chat Control 1.0** was approved today (after it being rejected twice and using behind-the-scenes tricks to force it to be approved)](https://euperspectives.eu/2026/07/parliament-forced-back-to-the-chat-control-question/) is a fine example that politicians, when really committed, can get things moving... \nIt's is a worring day for privacy in Europe, as it opens way to the very dangerous **Chat Control 2.0** that will enforce things like providers having to scan ALL messages and ALL media being transferred.  \nNot all is lost, as [Chat Control 2.0 hasn't been approved yet](https://fightchatcontrol.eu/chat-control-overview), but it's clearly a turning point, because it's time to take a stand to block it, but also to start reassessing the tools we use in our online everyday life...\n",
+				"date_published": "2026-07-09T15:00:19+01:00",
+				"url": "https://t3mujin.blog/2026/07/09/its-time-to-rethink-your/",
+				"tags": ["Geek stuff","Real stuff","Longform"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/07/08/enquanto-est-tudo-entretido-com/",
 				
 				"content_html": "<p>Enquanto está tudo entretido com o Mundial, está em debate no Parlamento Europeu uma proposta (já antes chumbada) que ataca gravemente a nossa privacidade, ao permitir aos governos acesso a qualquer mensagem que enviemos. Mais detalhes e como agir: ir <a href=\"https://fightchatcontrol.eu/pt/.\">fightchatcontrol.eu/pt/.</a></p>\n",
