@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/07/12/if-england-and-argentina-end/",
+				
+				"content_html": "<p>If England and Argentina end up reaching the semi-finals, we may have lost a great opportunity for something truly beautiful by not playing it at Azteca Stadium in CDMX.</p>\n",
+				"content_text": "If England and Argentina end up reaching the semi-finals, we may have lost a great opportunity for something truly beautiful by not playing it at Azteca Stadium in CDMX.\n",
+				"date_published": "2026-07-12T00:21:34+01:00",
+				"url": "https://t3mujin.blog/2026/07/12/if-england-and-argentina-end/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/07/12/why-do-i-have-two/",
+				"title": "Why do I have two newsletters on my photo site?",
+				"content_html": "<p>The shortest answer is because Micro.Blog is forcing me to keep it separate.</p>\n<p>But the actual reason is the same why I created two satellites to the main site on Micro.Blog in the first place: <a href=\"https://fieldnotes.joaopedroalmeida.com/\">Fieldnotes</a> and <a href=\"https://justthephotos.joaopedroalmeida.com/\">Just The Photos</a>. One is more for the new stuff and updates, while other for the archive and memories. So it makes sense to <a href=\"https://joaopedroalmeida.com/en/follow/\">keep them separate</a>), specially because the second one, to me, feels like it needs a space on it own, away from the randomness from my updates. But that&rsquo;s maybe just me being picky.</p>\n<p>When configuring the newsletter I got stuck with that decision of creating them separate, having a single one could be interesting, but letting users pick what they want should be fine also. So, for now, you can have my photography updates in your email in two ways: the <a href=\"https://fieldnotes.joaopedroalmeida.com/subscribe/\">new stuff as it happens</a> and the  <a href=\"https://justthephotos.joaopedroalmeida.com/subscribe/\">memories from my archive</a>.</p>\n",
+				"content_text": "The shortest answer is because Micro.Blog is forcing me to keep it separate.\n\nBut the actual reason is the same why I created two satellites to the main site on Micro.Blog in the first place: [Fieldnotes](https://fieldnotes.joaopedroalmeida.com/) and [Just The Photos](https://justthephotos.joaopedroalmeida.com/). One is more for the new stuff and updates, while other for the archive and memories. So it makes sense to [keep them separate](https://joaopedroalmeida.com/en/follow/)), specially because the second one, to me, feels like it needs a space on it own, away from the randomness from my updates. But that's maybe just me being picky. \n\nWhen configuring the newsletter I got stuck with that decision of creating them separate, having a single one could be interesting, but letting users pick what they want should be fine also. So, for now, you can have my photography updates in your email in two ways: the [new stuff as it happens](https://fieldnotes.joaopedroalmeida.com/subscribe/) and the  [memories from my archive](https://justthephotos.joaopedroalmeida.com/subscribe/).\n",
+				"date_published": "2026-07-12T00:01:02+01:00",
+				"url": "https://t3mujin.blog/2026/07/12/why-do-i-have-two/",
+				"tags": ["Photog stuff","Longform"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/07/11/nick-carver-went-down-a/",
 				
-				"content_html": "<p>Nick Carver went down a <a href=\"https://youtu.be/GnwVGKVrMZc?is=zdVuFRWqlsmfCTLu\">fascinating rabbit hole of why Canon&rsquo;s adapters with back filters always need a glass there glass</a>. It&rsquo;s very geek and fascinating at the same time, but may skip the Pedro Pascal part!</p>\n",
-				"content_text": "Nick Carver went down a [fascinating rabbit hole of why Canon's adapters with back filters always need a glass there glass](https://youtu.be/GnwVGKVrMZc?is=zdVuFRWqlsmfCTLu). It's very geek and fascinating at the same time, but may skip the Pedro Pascal part! \n",
+				"content_html": "<p>Nick Carver went down a <a href=\"https://youtu.be/GnwVGKVrMZc?is=zdVuFRWqlsmfCTLu\">fascinating rabbit hole of why Canon&rsquo;s adapters with back filters always need a glass there</a>. It&rsquo;s very geek and fascinating at the same time, but may skip the Pedro Pascal part!</p>\n",
+				"content_text": "Nick Carver went down a [fascinating rabbit hole of why Canon's adapters with back filters always need a glass there](https://youtu.be/GnwVGKVrMZc?is=zdVuFRWqlsmfCTLu). It's very geek and fascinating at the same time, but may skip the Pedro Pascal part! \n",
 				"date_published": "2026-07-11T14:49:28+01:00",
 				"url": "https://t3mujin.blog/2026/07/11/nick-carver-went-down-a/",
 				"tags": ["Photog stuff","Microposts"]
