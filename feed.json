@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/07/16/hoje-voltei-a-ouvir-o/",
+				
+				"content_html": "<p>Hoje voltei a ouvir o rumor de que o Mauro Icardi é hipótese para o Benfica, eu espero mesmo que esta gente tenha tino e não se meta nisso!!</p>\n",
+				"content_text": "Hoje voltei a ouvir o rumor de que o Mauro Icardi é hipótese para o Benfica, eu espero mesmo que esta gente tenha tino e não se meta nisso!! \n",
+				"date_published": "2026-07-16T22:18:41+01:00",
+				"url": "https://t3mujin.blog/2026/07/16/hoje-voltei-a-ouvir-o/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/07/16/flickr-app-prompted-my-login/",
+				"title": "Flickr app prompted my login again, but it's ok!",
+				"content_html": "<p>Today I opened <strong>Flickr</strong> app on Android and got suspicious: it asked me to re-enter my login again, and in the current days of scams and phishing this is enough to raise a yellow flag in my head.</p>\n<p>Then I understood why, <a href=\"https://www.flickrhelp.com/hc/en-us/articles/51338417883156-Flickr-App-Refresh-2026\">the app had a significant update</a>. Feels nicer now! Great to see it receiving some love, it&rsquo;s hard to find a place online that&rsquo;s not over the top, no frills, where someone can see and share some photos, without reels, popups or worries on how much of its audience a person can reach. It&rsquo;s this simpler and less flashy side of photo sharing that has brought me back there in recent years, after some time of ignoring it (and even considering closing my account).</p>\n<p><strong>So if you&rsquo;re there, <a href=\"https://flic.kr/ps/2v4oEG\">feel free to say hi!!</a></strong></p>\n<p>PS- by the way, speaking of Flickr and passwords, it&rsquo;s about time they implement a tighter authentication model, something that isn&rsquo;t just password based. And fediverse support would be great also!</p>\n",
+				"content_text": "Today I opened **Flickr** app on Android and got suspicious: it asked me to re-enter my login again, and in the current days of scams and phishing this is enough to raise a yellow flag in my head.\n\nThen I understood why, [the app had a significant update](https://www.flickrhelp.com/hc/en-us/articles/51338417883156-Flickr-App-Refresh-2026). Feels nicer now! Great to see it receiving some love, it's hard to find a place online that's not over the top, no frills, where someone can see and share some photos, without reels, popups or worries on how much of its audience a person can reach. It's this simpler and less flashy side of photo sharing that has brought me back there in recent years, after some time of ignoring it (and even considering closing my account).\n\n**So if you're there, [feel free to say hi!!](https://flic.kr/ps/2v4oEG)**\n\n\nPS- by the way, speaking of Flickr and passwords, it's about time they implement a tighter authentication model, something that isn't just password based. And fediverse support would be great also!\n",
+				"date_published": "2026-07-16T14:31:19+01:00",
+				"url": "https://t3mujin.blog/2026/07/16/flickr-app-prompted-my-login/",
+				"tags": ["Photog stuff","Longform"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/07/16/not-really-a-surprise-that/",
+				
+				"content_html": "<p>Not really a surprise that <a href=\"https://www.bloomberg.com/news/articles/2026-07-15/oneplus-once-popular-with-tech-fans-to-pull-out-of-us-and-europe?\">OnePlus is being phased down</a> outside China, based on recent updates but also since their restructuring to be closer to Oppo years ago. It was fun and interesting when it started, but as TechAltar explain in one of their videos: enthusiast brands are tricky to grow&hellip;</p>\n",
+				"content_text": "Not really a surprise that [OnePlus is being phased down](https://www.bloomberg.com/news/articles/2026-07-15/oneplus-once-popular-with-tech-fans-to-pull-out-of-us-and-europe?) outside China, based on recent updates but also since their restructuring to be closer to Oppo years ago. It was fun and interesting when it started, but as TechAltar explain in one of their videos: enthusiast brands are tricky to grow... \n",
+				"date_published": "2026-07-16T11:01:41+01:00",
+				"url": "https://t3mujin.blog/2026/07/16/not-really-a-surprise-that/",
+				"tags": ["Geek stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/07/16/probably-the-most-unlikely-and/",
+				
+				"content_html": "<p>Probably the most unlikely and unexpected thing you&rsquo;ll see today: <a href=\"https://youtu.be/e81LZCHhNKQ?si=ywUMhJoZbiEtZNcW\">Napalm Death on NPR&rsquo;s Tiny Desk Concert</a>. Never was a fan of them, but had to watch it all the way to the end.</p>\n",
+				"content_text": "Probably the most unlikely and unexpected thing you'll see today: [Napalm Death on NPR's Tiny Desk Concert](https://youtu.be/e81LZCHhNKQ?si=ywUMhJoZbiEtZNcW). Never was a fan of them, but had to watch it all the way to the end. \n",
+				"date_published": "2026-07-16T10:35:19+01:00",
+				"url": "https://t3mujin.blog/2026/07/16/probably-the-most-unlikely-and/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/07/15/i-want-so-much-this/",
+				
+				"content_html": "<p>⚽ I want so much this Argentina to be knocked out that I was willing to support France, which never happens! Spain solved that dilema for me yesterday.</p>\n",
+				"content_text": "⚽ I want so much this Argentina to be knocked out that I was willing to support France, which never happens! Spain solved that dilema for me yesterday. \n",
+				"date_published": "2026-07-15T20:30:35+01:00",
+				"url": "https://t3mujin.blog/2026/07/15/i-want-so-much-this/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/07/15/ill-say-this-again-we/",
 				
 				"content_html": "<p>I&rsquo;ll say this again: we lost a great opportunity of an England-Argentina rematch at Estádio Azteca! ⚽</p>\n<p>Is it today we&rsquo;ll see Messi out?</p>\n",
@@ -7533,8 +7578,8 @@
 			{
 				"id": "http://t3mujin.micro.blog/2023/08/23/why-i-love-coming-to/",
 				
-				"content_html": "<p>Why I love coming to the office!</p>\n<p>&hellip;the remote, not the coffee. I have plenty of coffee at home 😏</p>\n<img src=\"uploads/2023/fb989d2f98.jpg\" alt=\"Cup with coffee and AC remote \">\n",
-				"content_text": "Why I love coming to the office!\n \n...the remote, not the coffee. I have plenty of coffee at home 😏\n \n\n<img src=\"uploads/2023/fb989d2f98.jpg\" alt=\"Cup with coffee and AC remote \">\n",
+				"content_html": "<p>Why I love coming to the office!</p>\n<p>&hellip;the remote, not the coffee. I have plenty of coffee at home 😏</p>\n<img src=\"https://t3mujin.micro.blog/uploads/2023/fb989d2f98.jpg\" alt=\"Cup with coffee and AC remote \">\n",
+				"content_text": "Why I love coming to the office!\n \n...the remote, not the coffee. I have plenty of coffee at home 😏\n \n\n<img src=\"https://t3mujin.micro.blog/uploads/2023/fb989d2f98.jpg\" alt=\"Cup with coffee and AC remote \">\n",
 				"date_published": "2023-08-23T10:19:15+01:00",
 				"url": "https://t3mujin.blog/2023/08/23/why-i-love-coming-to/",
 				"tags": ["Geek stuff","Photos","Microposts"]
@@ -7551,8 +7596,8 @@
 			{
 				"id": "http://t3mujin.micro.blog/2023/08/20/the-kind-of-door-i/",
 				
-				"content_html": "<p>The kind of door I want to know where it leads to, despite knowing it leads to an urban farm</p>\n<img src=\"uploads/2023/5ca1dcb8ee.jpg\" alt=\"Old wooden door between leaves\">\n",
-				"content_text": "The kind of door I want to know where it leads to, despite knowing it leads to an urban farm\n\n<img src=\"uploads/2023/5ca1dcb8ee.jpg\" alt=\"Old wooden door between leaves\">\n",
+				"content_html": "<p>The kind of door I want to know where it leads to, despite knowing it leads to an urban farm</p>\n<img src=\"https://t3mujin.micro.blog/uploads/2023/5ca1dcb8ee.jpg\" alt=\"Old wooden door between leaves\">\n",
+				"content_text": "The kind of door I want to know where it leads to, despite knowing it leads to an urban farm\n\n<img src=\"https://t3mujin.micro.blog/uploads/2023/5ca1dcb8ee.jpg\" alt=\"Old wooden door between leaves\">\n",
 				"date_published": "2023-08-20T18:08:44+01:00",
 				"url": "https://t3mujin.blog/2023/08/20/the-kind-of-door-i/",
 				"tags": ["Photos","Microposts"]
@@ -7569,8 +7614,8 @@
 			{
 				"id": "http://t3mujin.micro.blog/2023/08/20/chillin-at-chelas-chicago/",
 				
-				"content_html": "<p>Chillin at Chelas Chicago</p>\n<img src=\"uploads/2023/c8d4a2e541.jpg\" alt=\"Sitting at the floor of an outdoor basketball field \">\n",
-				"content_text": "Chillin at Chelas Chicago\n\n<img src=\"uploads/2023/c8d4a2e541.jpg\" alt=\"Sitting at the floor of an outdoor basketball field \">\n",
+				"content_html": "<p>Chillin at Chelas Chicago</p>\n<img src=\"https://t3mujin.micro.blog/uploads/2023/c8d4a2e541.jpg\" alt=\"Sitting at the floor of an outdoor basketball field \">\n",
+				"content_text": "Chillin at Chelas Chicago\n\n<img src=\"https://t3mujin.micro.blog/uploads/2023/c8d4a2e541.jpg\" alt=\"Sitting at the floor of an outdoor basketball field \">\n",
 				"date_published": "2023-08-19T20:50:15+01:00",
 				"url": "https://t3mujin.blog/2023/08/20/chillin-at-chelas-chicago/",
 				"tags": ["Photos","Microposts"]
