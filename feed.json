@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/07/22/august-will-be-a-good/",
+				
+				"content_html": "<p>August will be a good month for new releases!</p>\n<p><a href=\"https://www.youtube.com/watch?v=mlqjZnVxew8&amp;list=RDmlqjZnVxew8&amp;start_radio=1\">&ldquo;Russian Circles - &ldquo;Eluvial&rdquo; (Official Video)&rdquo;</a></p>\n",
+				"content_text": "August will be a good month for new releases!\n\n[\"Russian Circles - \"Eluvial\" (Official Video)\"](https://www.youtube.com/watch?v=mlqjZnVxew8&list=RDmlqjZnVxew8&start_radio=1)\n",
+				"date_published": "2026-07-22T11:58:36+01:00",
+				"url": "https://t3mujin.blog/2026/07/22/august-will-be-a-good/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/07/21/claude-down-does-this-mean/",
+				
+				"content_html": "<p>Claude down, does this mean no more work today?!</p>\n<img src=\"uploads/2026/screenshot-2026-07-21-165914.png\" width=\"600\" height=\"515\" alt=\"Claude Status reports elevated errors on several models with updates on identification, investigation, and monitoring of fixes as of July 21, 2026.\">\n",
+				"content_text": "Claude down, does this mean no more work today?!\n\n<img src=\"uploads/2026/screenshot-2026-07-21-165914.png\" width=\"600\" height=\"515\" alt=\"Claude Status reports elevated errors on several models with updates on identification, investigation, and monitoring of fixes as of July 21, 2026.\">\n",
+				"date_published": "2026-07-21T17:00:34+01:00",
+				"url": "https://t3mujin.blog/2026/07/21/claude-down-does-this-mean/",
+				"tags": ["Geek stuff","Photos","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/07/21/in-a-filmmaker-spent-five/",
+				
+				"content_html": "<blockquote>\n<p>In 1998 a filmmaker spent five weeks so close to the France squad that they forgot he existed.</p>\n<p>These are those photographs.</p>\n</blockquote>\n<p>Source: <a href=\"https://www.instagram.com/p/Da-U2mcgHtf/\">Open All Hours</a></p>\n",
+				"content_text": "> In 1998 a filmmaker spent five weeks so close to the France squad that they forgot he existed.\n> \n> These are those photographs.\n\nSource: [Open All Hours](https://www.instagram.com/p/Da-U2mcgHtf/)\n",
+				"date_published": "2026-07-21T11:21:50+01:00",
+				"url": "https://t3mujin.blog/2026/07/21/in-a-filmmaker-spent-five/",
+				"tags": ["Photog stuff","Fun stuff","Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/07/21/love-the-brutus-audiotree-session/",
 				
 				"content_html": "<p>Love the Brutus Audiotree session; usually my pick from it is &ldquo;Brave,&rdquo; but not today.</p>\n<p>Today&rsquo;s Crucial Track: <a href=\"https://www.crucialtracks.org/profile/t3mujin/20260721\">Brutus - &ldquo;What Have We Done (Audiotree Version)&rdquo;</a></p>\n",
