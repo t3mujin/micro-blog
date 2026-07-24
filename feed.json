@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/07/24/the-design-proposals-for-the/",
+				
+				"content_html": "<p>The <a href=\"https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html\">design proposals for the future euro banknote</a> are out and, like other notes that already do this, I really like the ones that switch the layout to make it vertical, maybe it&rsquo;s just because it feels more modern.</p>\n",
+				"content_text": "The [design proposals for the future euro banknote](https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html) are out and, like other notes that already do this, I really like the ones that switch the layout to make it vertical, maybe it's just because it feels more modern.\n",
+				"date_published": "2026-07-24T15:57:23+01:00",
+				"url": "https://t3mujin.blog/2026/07/24/the-design-proposals-for-the/",
+				"tags": ["Real stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/07/23/flashback-of-today-provided-by/",
+				
+				"content_html": "<p>Flashback of today provided by KEXP, opened YouTube and there it was.</p>\n<p><a href=\"https://www.youtube.com/watch?v=7heLwuTa08o&amp;list=RD7heLwuTa08o&amp;start_radio=1\">&ldquo;Ladytron - Destroy Everything You Touch (Live on KEXP)&rdquo;</a></p>\n",
+				"content_text": "Flashback of today provided by KEXP, opened YouTube and there it was.\n\n[\"Ladytron - Destroy Everything You Touch (Live on KEXP)\"](https://www.youtube.com/watch?v=7heLwuTa08o&list=RD7heLwuTa08o&start_radio=1)\n",
+				"date_published": "2026-07-23T10:55:47+01:00",
+				"url": "https://t3mujin.blog/2026/07/23/flashback-of-today-provided-by/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/07/22/if-youre-posting-microblog-from/",
+				"title": "If you're posting Micro.blog from Obsidian, this might interest you",
+				"content_html": "<p>If you&rsquo;ve been using Obsidian and <a href=\"http://micro.blog\">Micro.blog</a>, you might have come across <strong>Micro.publish</strong>, a plugin that allows you to publish to your blog directly from your vault, with full support for multiple blogs and image handling. Although this plugin <a href=\"https://otavio.cc/deprecation-of-micropublish/\">was deprecated last year</a> by its author, it still works fine and should remain that way; however, it will obviously lack any new features.</p>\n<p>That&rsquo;s why I started adding my own features to provide further functionality and customization that is useful—at least for me:</p>\n<ul>\n<li><strong>Configurable category property:</strong> The default behavior of using the <em>tags</em> property was messing up my vault system. Now, you can specify exactly which property to use for categories.</li>\n<li><strong>Support for a summary field:</strong> This was missing entirely, but it is now possible to define a summary for your posts. Similar to the category setting, you can configure which property to use for this field.</li>\n</ul>\n<p>This version is not available in the Obsidian community plugins directory. To install it, you must use <a href=\"https://community.obsidian.md/plugins/obsidian42-brat\">BRAT</a>, the plugin that allows you to install beta versions. After installing and enabling BRAT, click <em>Add Beta Plugin</em> and enter the URL for my repository: <a href=\"https://github.com/t3mujin/obsidian-microblog.\">github.com/t3mujin/o&hellip;</a></p>\n",
+				"content_text": "\nIf you've been using Obsidian and [Micro.blog](http://micro.blog), you might have come across **Micro.publish**, a plugin that allows you to publish to your blog directly from your vault, with full support for multiple blogs and image handling. Although this plugin [was deprecated last year](https://otavio.cc/deprecation-of-micropublish/) by its author, it still works fine and should remain that way; however, it will obviously lack any new features.\n\nThat's why I started adding my own features to provide further functionality and customization that is useful—at least for me:\n\n*   **Configurable category property:** The default behavior of using the *tags* property was messing up my vault system. Now, you can specify exactly which property to use for categories.\n*   **Support for a summary field:** This was missing entirely, but it is now possible to define a summary for your posts. Similar to the category setting, you can configure which property to use for this field.\n\nThis version is not available in the Obsidian community plugins directory. To install it, you must use [BRAT](https://community.obsidian.md/plugins/obsidian42-brat), the plugin that allows you to install beta versions. After installing and enabling BRAT, click *Add Beta Plugin* and enter the URL for my repository: [github.com/t3mujin/o...](https://github.com/t3mujin/obsidian-microblog.)\n",
+				"date_published": "2026-07-22T18:27:16+01:00",
+				"url": "https://t3mujin.blog/2026/07/22/if-youre-posting-microblog-from/",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/07/22/173822/",
+				
+				"content_html": "<p>Noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>\n<p><a href=\"https://www.theguardian.com/football/2026/jul/22/amazon-founder-jeff-bezos-consortium-stake-liverpool-football\">&ldquo;Amazon founder Jeff Bezos in talks to join consortium seeking 30% stake in Liverpool | Liverpool | The Guardian&rdquo;</a></p>\n",
+				"content_text": "Noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n[\"Amazon founder Jeff Bezos in talks to join consortium seeking 30% stake in Liverpool | Liverpool | The Guardian\"](https://www.theguardian.com/football/2026/jul/22/amazon-founder-jeff-bezos-consortium-stake-liverpool-football)\n",
+				"date_published": "2026-07-22T17:38:22+01:00",
+				"url": "https://t3mujin.blog/2026/07/22/173822/",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/07/22/august-will-be-a-good/",
 				
 				"content_html": "<p>August will be a good month for new releases!</p>\n<p><a href=\"https://www.youtube.com/watch?v=mlqjZnVxew8&amp;list=RDmlqjZnVxew8&amp;start_radio=1\">&ldquo;Russian Circles - &ldquo;Eluvial&rdquo; (Official Video)&rdquo;</a></p>\n",
@@ -18,8 +54,8 @@
 			{
 				"id": "http://t3mujin.micro.blog/2026/07/21/claude-down-does-this-mean/",
 				
-				"content_html": "<p>Claude down, does this mean no more work today?!</p>\n<img src=\"uploads/2026/screenshot-2026-07-21-165914.png\" width=\"600\" height=\"515\" alt=\"Claude Status reports elevated errors on several models with updates on identification, investigation, and monitoring of fixes as of July 21, 2026.\">\n",
-				"content_text": "Claude down, does this mean no more work today?!\n\n<img src=\"uploads/2026/screenshot-2026-07-21-165914.png\" width=\"600\" height=\"515\" alt=\"Claude Status reports elevated errors on several models with updates on identification, investigation, and monitoring of fixes as of July 21, 2026.\">\n",
+				"content_html": "<p>Claude down, does this mean no more work today?!</p>\n<img src=\"https://eu.uploads.micro.blog/33187/2026/screenshot-2026-07-21-165914.png\" width=\"600\" height=\"515\" alt=\"Claude Status reports elevated errors on several models with updates on identification, investigation, and monitoring of fixes as of July 21, 2026.\">\n",
+				"content_text": "Claude down, does this mean no more work today?!\n\n<img src=\"https://eu.uploads.micro.blog/33187/2026/screenshot-2026-07-21-165914.png\" width=\"600\" height=\"515\" alt=\"Claude Status reports elevated errors on several models with updates on identification, investigation, and monitoring of fixes as of July 21, 2026.\">\n",
 				"date_published": "2026-07-21T17:00:34+01:00",
 				"url": "https://t3mujin.blog/2026/07/21/claude-down-does-this-mean/",
 				"tags": ["Geek stuff","Photos","Microposts"]
