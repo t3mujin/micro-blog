@@ -7,13 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/08/05/apparently-now-readwise-has-webhooks/",
+				
+				"content_html": "<p>Apparently now Readwise has <a href=\"https://docs.readwise.io/readwise/docs/webhooks\">webhooks</a>, maybe for some time, but only now I noticed it. Must explore it and fit this in my workflow.</p>\n",
+				"content_text": "Apparently now Readwise has [webhooks](https://docs.readwise.io/readwise/docs/webhooks), maybe for some time, but only now I noticed it. Must explore it and fit this in my workflow.\n",
+				"date_published": "2026-08-05T15:09:55+01:00",
+				"url": "https://t3mujin.blog/2026/08/05/apparently-now-readwise-has-webhooks/",
+				"tags": ["Geek stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/08/04/joo-sousa-just-did-a/",
+				
+				"content_html": "<p>João Sousa just did a heartfelt flashback his day on the Beirut port explosion and, because stories only last 24 hours, I urge you to watch it.</p>\n<p><a href=\"https://www.instagram.com/stories/joaosousa.photos/3956253081849925621?\">www.instagram.com/stories/j&hellip;</a></p>\n",
+				"content_text": "João Sousa just did a heartfelt flashback his day on the Beirut port explosion and, because stories only last 24 hours, I urge you to watch it.\n\n\n[www.instagram.com/stories/j...](https://www.instagram.com/stories/joaosousa.photos/3956253081849925621?)\n",
+				"date_published": "2026-08-04T13:16:37+01:00",
+				"url": "https://t3mujin.blog/2026/08/04/joo-sousa-just-did-a/",
+				"tags": ["Photog stuff","Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/08/03/o-pau-storch-fez-um/",
 				
 				"content_html": "<p>O Pau Storch fez um destaque muito fixe, e bem merecido, ao trabalho intimista, genuíno, espontâneo mas muito consistente do Luís Costa! Ide ver o reel, e a seguir o resto das fotos na conta dele.</p>\n<p><a href=\"https://www.instagram.com/reel/Dbk54UlM6Ud/?igsh=dTVxb2FzdHJuNjB0\">www.instagram.com/reel/Dbk5&hellip;</a></p>\n",
 				"content_text": "O Pau Storch fez um destaque muito fixe, e bem merecido, ao trabalho intimista, genuíno, espontâneo mas muito consistente do Luís Costa! Ide ver o reel, e a seguir o resto das fotos na conta dele. \n\n\n[www.instagram.com/reel/Dbk5...](https://www.instagram.com/reel/Dbk54UlM6Ud/?igsh=dTVxb2FzdHJuNjB0)\n",
 				"date_published": "2026-08-03T19:07:31+01:00",
 				"url": "https://t3mujin.blog/2026/08/03/o-pau-storch-fez-um/",
-				"tags": ["Microposts"]
+				"tags": ["Photog stuff","Microposts"]
 			},
 			{
 				"id": "http://t3mujin.micro.blog/2026/07/30/she-couldnt-afford-retirement-in/",
@@ -36,8 +54,8 @@
 			{
 				"id": "http://t3mujin.micro.blog/2026/07/24/algum-conhece-o-jornalista-da/",
 				
-				"content_html": "<p>Alguém conhece o jornalista d&rsquo;A Bola Redação?</p>\n<p><img src=\"uploads/2026/screenshot-2026-07-24-163555.png\" width=\"482\" height=\"600\" alt=\"A woman with light hair tied back and wearing a white shirt is seen holding her hand near her face.\"><img src=\"uploads/2026/screenshot-2026-07-24-163440.png\" width=\"600\" height=\"544\" alt=\"A female tennis player is smiling and holding a large trophy plate, while another player looks on.\"></p>\n",
-				"content_text": "Alguém conhece o jornalista d'A Bola Redação?\n\n<img src=\"uploads/2026/screenshot-2026-07-24-163555.png\" width=\"482\" height=\"600\" alt=\"A woman with light hair tied back and wearing a white shirt is seen holding her hand near her face.\"><img src=\"uploads/2026/screenshot-2026-07-24-163440.png\" width=\"600\" height=\"544\" alt=\"A female tennis player is smiling and holding a large trophy plate, while another player looks on.\">\n",
+				"content_html": "<p>Alguém conhece o jornalista d&rsquo;A Bola Redação?</p>\n<p><img src=\"https://eu.uploads.micro.blog/33187/2026/screenshot-2026-07-24-163555.png\" width=\"482\" height=\"600\" alt=\"A woman with light hair tied back and wearing a white shirt is seen holding her hand near her face.\"><img src=\"https://eu.uploads.micro.blog/33187/2026/screenshot-2026-07-24-163440.png\" width=\"600\" height=\"544\" alt=\"A female tennis player is smiling and holding a large trophy plate, while another player looks on.\"></p>\n",
+				"content_text": "Alguém conhece o jornalista d'A Bola Redação?\n\n<img src=\"https://eu.uploads.micro.blog/33187/2026/screenshot-2026-07-24-163555.png\" width=\"482\" height=\"600\" alt=\"A woman with light hair tied back and wearing a white shirt is seen holding her hand near her face.\"><img src=\"https://eu.uploads.micro.blog/33187/2026/screenshot-2026-07-24-163440.png\" width=\"600\" height=\"544\" alt=\"A female tennis player is smiling and holding a large trophy plate, while another player looks on.\">\n",
 				"date_published": "2026-07-24T16:38:54+01:00",
 				"url": "https://t3mujin.blog/2026/07/24/algum-conhece-o-jornalista-da/",
 				"tags": ["Photos","Fun stuff","Microposts"]
