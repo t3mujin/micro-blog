@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/08/18/getting-in-the-mood-for/",
+				
+				"content_html": "<p>Getting in the mood for Saturday.\nAnd I didn&rsquo;t had a decent night of sleep&hellip;\nI guess today it&rsquo;s more about being sleepy, but stoked about Saturday.</p>\n<p>Today&rsquo;s Crucial Track: <a href=\"https://www.crucialtracks.org/profile/t3mujin/20260818\">Penelope Trappes - &ldquo;Sleep&rdquo;</a></p>\n",
+				"content_text": "Getting in the mood for Saturday.\nAnd I didn't had a decent night of sleep...\nI guess today it's more about being sleepy, but stoked about Saturday.\n\nToday's Crucial Track: [Penelope Trappes - \"Sleep\"](https://www.crucialtracks.org/profile/t3mujin/20260818)\n",
+				"date_published": "2026-08-18T11:53:52+01:00",
+				"url": "https://t3mujin.blog/2026/08/18/getting-in-the-mood-for/",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/08/17/querem-ver-que-hoje-httpsyoutubecomwatchvgsoktxoms/",
+				
+				"content_html": "<p>Querem ver que é hoje? ⚽ 🔴</p>\n<p><a href=\"https://youtube.com/watch?v=GSokT4XoMS0\">youtube.com/watch</a></p>\n",
+				"content_text": "Querem ver que é hoje? ⚽ 🔴 \n\n[youtube.com/watch](https://youtube.com/watch?v=GSokT4XoMS0)\n",
+				"date_published": "2026-08-17T21:40:04+01:00",
+				"url": "https://t3mujin.blog/2026/08/17/querem-ver-que-hoje-httpsyoutubecomwatchvgsoktxoms/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/08/17/you-notice-how-the-internet/",
+				
+				"content_html": "<p>You notice how the internet more centralized every time each of its behemoths has a hiccup, like today.  This it it wasn&rsquo;t Amazon or Google, but is has been a complicated day over the <a href=\"https://www.githubstatus.com/\">Github</a>.</p>\n<blockquote>\n<p>Update - The degradation affecting Git Operations has been mitigated. We are monitoring to ensure stability. Aug 17, 2026 - 18:23 UTC</p>\n</blockquote>\n",
+				"content_text": "You notice how the internet more centralized every time each of its behemoths has a hiccup, like today.  This it it wasn't Amazon or Google, but is has been a complicated day over the [Github](https://www.githubstatus.com/).\n\n> Update - The degradation affecting Git Operations has been mitigated. We are monitoring to ensure stability. Aug 17, 2026 - 18:23 UTC\n",
+				"date_published": "2026-08-17T19:41:09+01:00",
+				"url": "https://t3mujin.blog/2026/08/17/you-notice-how-the-internet/",
+				"tags": ["Geek stuff","Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/08/16/i-have-too-many-cameras/",
 				
 				"content_html": "<p>I have too many cameras&hellip;</p>\n<p>&hellip;said no photographer ever.</p>\n<img src=\"uploads/2026/2d7fc7c21b.jpg\" width=\"337\" height=\"600\" alt=\"Several black cameras are clustered together, showcasing their top dials and controls.\">\n",
@@ -27,8 +54,8 @@
 			{
 				"id": "http://t3mujin.micro.blog/2026/08/16/a-helena-ficou-melindrada-com/",
 				
-				"content_html": "<p>A Helena ficou melindrada com uma montra e diz que não compra mais livros na Bertrand. Será que a Bertrand vai responder à altura e deixar de vender os livros dela?</p>\n<img src=\"uploads/2026/747fd4ca67.jpg\" width=\"435\" height=\"600\" alt=\"A bookstore window display prominently features multiple copies of a book titled Israel by Bell Burden, with accompanying text describing it as a devastating and morally rigorous analysis of the ethical collapse of Israel.\">\n",
-				"content_text": "A Helena ficou melindrada com uma montra e diz que não compra mais livros na Bertrand. Será que a Bertrand vai responder à altura e deixar de vender os livros dela? \n\n\n<img src=\"uploads/2026/747fd4ca67.jpg\" width=\"435\" height=\"600\" alt=\"A bookstore window display prominently features multiple copies of a book titled Israel by Bell Burden, with accompanying text describing it as a devastating and morally rigorous analysis of the ethical collapse of Israel.\">\n",
+				"content_html": "<p>A Helena ficou melindrada com uma montra e diz que não compra mais livros na Bertrand. Será que a Bertrand vai responder à altura e deixar de vender os livros dela?</p>\n<img src=\"https://eu.uploads.micro.blog/33187/2026/747fd4ca67.jpg\" width=\"435\" height=\"600\" alt=\"A bookstore window display prominently features multiple copies of a book titled Israel by Bell Burden, with accompanying text describing it as a devastating and morally rigorous analysis of the ethical collapse of Israel.\">\n",
+				"content_text": "A Helena ficou melindrada com uma montra e diz que não compra mais livros na Bertrand. Será que a Bertrand vai responder à altura e deixar de vender os livros dela? \n\n\n<img src=\"https://eu.uploads.micro.blog/33187/2026/747fd4ca67.jpg\" width=\"435\" height=\"600\" alt=\"A bookstore window display prominently features multiple copies of a book titled Israel by Bell Burden, with accompanying text describing it as a devastating and morally rigorous analysis of the ethical collapse of Israel.\">\n",
 				"date_published": "2026-08-16T12:42:25+01:00",
 				"url": "https://t3mujin.blog/2026/08/16/a-helena-ficou-melindrada-com/",
 				"tags": ["Photos","Real stuff","Microposts"]
