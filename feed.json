@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/08/24/foo-fighters-uma-banda-de/",
+				
+				"content_html": "<blockquote>\n<p>Foo Fighters é uma banda de covers que não toca covers.</p>\n</blockquote>\n<p>O Pina não está errado!</p>\n<p><a href=\"https://www.threads.com/share/BBPpPPTR0Y/\">www.threads.com/share/BBP&hellip;</a></p>\n",
+				"content_text": "> Foo Fighters é uma banda de covers que não toca covers. \n\nO Pina não está errado!\n\n[www.threads.com/share/BBP...](https://www.threads.com/share/BBPpPPTR0Y/)\n",
+				"date_published": "2026-08-24T21:47:48+01:00",
+				"url": "https://t3mujin.blog/2026/08/24/foo-fighters-uma-banda-de/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/08/18/amazing-how-in-of-all/",
+				
+				"content_html": "<p>Amazing how, in 2026, of all Logitech MX keyboards the only one comes in PT layout is the regular MX Keys, and even more amazing is that there&rsquo;s not even an MX Keys Mini&hellip;</p>\n",
+				"content_text": "Amazing how, in 2026, of all Logitech MX keyboards the only one comes in PT layout is the regular MX Keys, and even more amazing is that there's not even an MX Keys Mini...\n",
+				"date_published": "2026-08-18T19:01:50+01:00",
+				"url": "https://t3mujin.blog/2026/08/18/amazing-how-in-of-all/",
+				"tags": ["Geek stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/08/18/a-few-days-ago-i/",
+				
+				"content_html": "<p>A few days ago I wasn&rsquo;t really in the mood to do Linux distro-hopping, not even test-driving one on a VM, but I might make an exception for <a href=\"https://www.youtube.com/watch?v=F7fe9pa8OeE\">DHH&rsquo;s Omarchy</a>, regardless of sometimes finding him a bit creepy&hellip;</p>\n",
+				"content_text": "A few days ago I wasn't really in the mood to do Linux distro-hopping, not even test-driving one on a VM, but I might make an exception for [DHH's Omarchy](https://www.youtube.com/watch?v=F7fe9pa8OeE), regardless of sometimes finding him a bit creepy...\n",
+				"date_published": "2026-08-18T12:57:21+01:00",
+				"url": "https://t3mujin.blog/2026/08/18/a-few-days-ago-i/",
+				"tags": ["Geek stuff","Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/08/18/getting-in-the-mood-for/",
 				
 				"content_html": "<p>Getting in the mood for Saturday.\nAnd I didn&rsquo;t had a decent night of sleep&hellip;\nI guess today it&rsquo;s more about being sleepy, but stoked about Saturday.</p>\n<p>Today&rsquo;s Crucial Track: <a href=\"https://www.crucialtracks.org/profile/t3mujin/20260818\">Penelope Trappes - &ldquo;Sleep&rdquo;</a></p>\n",
@@ -36,8 +63,8 @@
 			{
 				"id": "http://t3mujin.micro.blog/2026/08/16/i-have-too-many-cameras/",
 				
-				"content_html": "<p>I have too many cameras&hellip;</p>\n<p>&hellip;said no photographer ever.</p>\n<img src=\"uploads/2026/2d7fc7c21b.jpg\" width=\"337\" height=\"600\" alt=\"Several black cameras are clustered together, showcasing their top dials and controls.\">\n",
-				"content_text": "I have too many cameras...\n\n...said no photographer ever.\n\n<img src=\"uploads/2026/2d7fc7c21b.jpg\" width=\"337\" height=\"600\" alt=\"Several black cameras are clustered together, showcasing their top dials and controls.\">\n",
+				"content_html": "<p>I have too many cameras&hellip;</p>\n<p>&hellip;said no photographer ever.</p>\n<img src=\"https://eu.uploads.micro.blog/33187/2026/2d7fc7c21b.jpg\" width=\"337\" height=\"600\" alt=\"Several black cameras are clustered together, showcasing their top dials and controls.\">\n",
+				"content_text": "I have too many cameras...\n\n...said no photographer ever.\n\n<img src=\"https://eu.uploads.micro.blog/33187/2026/2d7fc7c21b.jpg\" width=\"337\" height=\"600\" alt=\"Several black cameras are clustered together, showcasing their top dials and controls.\">\n",
 				"date_published": "2026-08-16T23:28:06+01:00",
 				"url": "https://t3mujin.blog/2026/08/16/i-have-too-many-cameras/",
 				"tags": ["Photog stuff","Photos","Microposts"]
