@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/09/23/every-once-in-a-while/",
+				
+				"content_html": "<p>Every once in a while I have to go back to Type O Negative.</p>\n<p>Today&rsquo;s Crucial Track: <a href=\"https://www.crucialtracks.org/profile/t3mujin/20260922\">Type O Negative - &ldquo;Everything Dies&rdquo;</a></p>\n",
+				"content_text": "Every once in a while I have to go back to Type O Negative. \n\nToday's Crucial Track: [Type O Negative - \"Everything Dies\"](https://www.crucialtracks.org/profile/t3mujin/20260922)\n",
+				"date_published": "2026-09-23T00:33:59+01:00",
+				"url": "https://t3mujin.blog/2026/09/23/every-once-in-a-while/",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/09/22/the-instrument-the-telescreen-it/",
+				
+				"content_html": "<blockquote>\n<p>The instrument (the telescreen, it was called) could be dimmed, but there was no way of shutting it off completely.</p>\n</blockquote>\n<p>(George Orwell, 1984)</p>\n",
+				"content_text": "> The instrument (the telescreen, it was called) could be dimmed, but there was no way of shutting it off completely. \n\n(George Orwell, 1984)\n",
+				"date_published": "2026-09-22T13:47:37+01:00",
+				"url": "https://t3mujin.blog/2026/09/22/the-instrument-the-telescreen-it/",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/09/21/slowly-diving-into-emmas-latest/",
 				
 				"content_html": "<p>Slowly diving into Emma&rsquo;s latest album&hellip;</p>\n<p>Today&rsquo;s Crucial Track: <a href=\"https://www.crucialtracks.org/profile/t3mujin/20260921\">Emma Ruth Rundle - &ldquo;Human Kindness&rdquo;</a></p>\n",
@@ -45,8 +63,8 @@
 			{
 				"id": "http://t3mujin.micro.blog/2026/09/19/ainda-sobre-a-propsito-da/",
 				
-				"content_html": "<p>Ainda sobre a propósito da abertura de Passports da Keisha Scarville ontem na <a href=\"https://anarrativa.com/\">Narrativa</a>, hoje há uma conversa com a autora às 16h, e a exposição está aberta logo à partir das 14h.</p>\n<p><img src=\"https://t3mujin.blog/uploads/2026/e6260e0faf.jpg\" alt=\"Mosaic of several modified passport photos on a wall. \"></p>\n",
-				"content_text": "Ainda sobre a propósito da abertura de Passports da Keisha Scarville ontem na [Narrativa](https://anarrativa.com/), hoje há uma conversa com a autora às 16h, e a exposição está aberta logo à partir das 14h.\n\n![Mosaic of several modified passport photos on a wall. ](https://t3mujin.blog/uploads/2026/e6260e0faf.jpg)\n",
+				"content_html": "<p>Ainda sobre a propósito da abertura de Passports da Keisha Scarville ontem na <a href=\"https://anarrativa.com/\">Narrativa</a>, hoje há uma conversa com a autora às 16h, e a exposição está aberta logo à partir das 14h.</p>\n<p><img src=\"https://eu.uploads.micro.blog/33187/2026/e6260e0faf.jpg\" alt=\"Mosaic of several modified passport photos on a wall. \"></p>\n",
+				"content_text": "Ainda sobre a propósito da abertura de Passports da Keisha Scarville ontem na [Narrativa](https://anarrativa.com/), hoje há uma conversa com a autora às 16h, e a exposição está aberta logo à partir das 14h.\n\n![Mosaic of several modified passport photos on a wall. ](https://eu.uploads.micro.blog/33187/2026/e6260e0faf.jpg)\n",
 				"date_published": "2026-09-19T12:16:11+01:00",
 				"url": "https://t3mujin.blog/2026/09/19/ainda-sobre-a-propsito-da/",
 				"tags": ["Photog stuff","Microposts"]
