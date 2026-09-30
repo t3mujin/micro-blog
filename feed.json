@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/09/30/isto-muita-confuso-pr-tua/",
+				
+				"content_html": "<blockquote>\n<p>Isto é muita confuso prá tua cabeça!</p>\n</blockquote>\n<p>O <a href=\"https://x.com/B24PT/status/2105319513747345625\">JJ a dar baile à segunda maior ronaldete à face da terra</a>, logo a seguir ao Piers Morgan.</p>\n",
+				"content_text": "> Isto é muita confuso prá tua cabeça!\n\nO [JJ a dar baile à segunda maior ronaldete à face da terra](https://x.com/B24PT/status/2105319513747345625), logo a seguir ao Piers Morgan.\n",
+				"date_published": "2026-09-30T18:42:39+01:00",
+				"url": "https://t3mujin.blog/2026/09/30/isto-muita-confuso-pr-tua/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/09/30/not-sure-im-there/",
+				
+				"content_html": "<p>Not sure I&rsquo;m 100% there&hellip;</p>\n<p><img src=\"https://t3mujin.blog/uploads/2026/70e1035455.jpg\" alt=\"The image shows a Windows computer screen displaying a loading circle with the text &ldquo;You&rsquo;re 100% there. Please keep your computer on.&rdquo;\"></p>\n",
+				"content_text": "Not sure I'm 100% there... \n\n![The image shows a Windows computer screen displaying a loading circle with the text \"You're 100% there. Please keep your computer on.\"](https://t3mujin.blog/uploads/2026/70e1035455.jpg)\n",
+				"date_published": "2026-09-30T11:50:44+01:00",
+				"url": "https://t3mujin.blog/2026/09/30/not-sure-im-there/",
+				"tags": ["Fun stuff","Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/09/29/the-more-recent-albums-from/",
 				
 				"content_html": "<p>The more recent albums from APC have always kind of felt short to me, but the new tracks (this one and &lsquo;Starless&rsquo;) actually made me go, &lsquo;Hmm, let me listen to this again.&rsquo;.</p>\n<p><a href=\"https://www.youtube.com/watch?v=1gvOSUZGXdo\">&ldquo;A Perfect Circle - To Whom It May Concern (Official Visualizer) - YouTube&rdquo;</a></p>\n",
@@ -45,8 +63,8 @@
 			{
 				"id": "http://t3mujin.micro.blog/2026/09/23/when-your-working-space-happens/",
 				
-				"content_html": "<p>When your work space happens to be at an accounting office!</p>\n<p><img src=\"https://t3mujin.blog/uploads/2026/98892c8529.jpg\" alt=\"A neon sign displaying the word &ldquo;TAXES&rdquo; in pink inside a green heart shape is mounted on a dark wall.\"></p>\n",
-				"content_text": "When your work space happens to be at an accounting office!\n\n![A neon sign displaying the word \"TAXES\" in pink inside a green heart shape is mounted on a dark wall.](https://t3mujin.blog/uploads/2026/98892c8529.jpg)\n",
+				"content_html": "<p>When your work space happens to be at an accounting office!</p>\n<p><img src=\"https://eu.uploads.micro.blog/33187/2026/98892c8529.jpg\" alt=\"A neon sign displaying the word &ldquo;TAXES&rdquo; in pink inside a green heart shape is mounted on a dark wall.\"></p>\n",
+				"content_text": "When your work space happens to be at an accounting office!\n\n![A neon sign displaying the word \"TAXES\" in pink inside a green heart shape is mounted on a dark wall.](https://eu.uploads.micro.blog/33187/2026/98892c8529.jpg)\n",
 				"date_published": "2026-09-23T13:00:52+01:00",
 				"url": "https://t3mujin.blog/2026/09/23/when-your-working-space-happens/",
 				"tags": ["Fun stuff","Microposts"]
@@ -225,8 +243,8 @@
 			{
 				"id": "http://t3mujin.micro.blog/2026/09/10/sabes-que-s-uma-pessoa/",
 				
-				"content_html": "<p>Sabes que és uma pessoa de meia idade quando os concertos a que vais são em igrejas. Há menos de um mês: Penelope Trappes (ok, foi num festival gótico). E hoje: Ana Roxanne.</p>\n<img src=\"uploads/2026/57726.jpg\" width=\"450\" height=\"600\" alt=\"A dimly lit church interior features a person seated near the altar, surrounded by architectural arches and religious statues.\">\n",
-				"content_text": "Sabes que és uma pessoa de meia idade quando os concertos a que vais são em igrejas. Há menos de um mês: Penelope Trappes (ok, foi num festival gótico). E hoje: Ana Roxanne.\n\n<img src=\"uploads/2026/57726.jpg\" width=\"450\" height=\"600\" alt=\"A dimly lit church interior features a person seated near the altar, surrounded by architectural arches and religious statues.\">\n",
+				"content_html": "<p>Sabes que és uma pessoa de meia idade quando os concertos a que vais são em igrejas. Há menos de um mês: Penelope Trappes (ok, foi num festival gótico). E hoje: Ana Roxanne.</p>\n<img src=\"https://eu.uploads.micro.blog/33187/2026/57726.jpg\" width=\"450\" height=\"600\" alt=\"A dimly lit church interior features a person seated near the altar, surrounded by architectural arches and religious statues.\">\n",
+				"content_text": "Sabes que és uma pessoa de meia idade quando os concertos a que vais são em igrejas. Há menos de um mês: Penelope Trappes (ok, foi num festival gótico). E hoje: Ana Roxanne.\n\n<img src=\"https://eu.uploads.micro.blog/33187/2026/57726.jpg\" width=\"450\" height=\"600\" alt=\"A dimly lit church interior features a person seated near the altar, surrounded by architectural arches and religious statues.\">\n",
 				"date_published": "2026-09-10T00:50:35+01:00",
 				"url": "https://t3mujin.blog/2026/09/10/sabes-que-s-uma-pessoa/",
 				"tags": ["Photos","Fun stuff","Microposts"]
