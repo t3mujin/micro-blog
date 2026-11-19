@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://t3mujin.micro.blog/2026/11/19/moedas-um-mentiroso-compulsivo-nada/",
+				
+				"content_html": "<p>Moedas é um mentiroso compulsivo, nada de novo, mas é incrível como insiste. Acabou de dizer na SIC que não quer protagonismo, que apenas quer apoiar as famílias. O mesmo que foi ao Programa da Júlia chorar das conversas com as famílias, que afinal não teve, as mesmas que a Câmara abandonou&hellip;</p>\n",
+				"content_text": "Moedas é um mentiroso compulsivo, nada de novo, mas é incrível como insiste. Acabou de dizer na SIC que não quer protagonismo, que apenas quer apoiar as famílias. O mesmo que foi ao Programa da Júlia chorar das conversas com as famílias, que afinal não teve, as mesmas que a Câmara abandonou... \n",
+				"date_published": "2026-11-19T20:30:17+00:00",
+				"url": "https://t3mujin.blog/2026/11/19/moedas-um-mentiroso-compulsivo-nada/",
+				"tags": ["Real stuff","Microposts"]
+			},
+			{
+				"id": "http://t3mujin.micro.blog/2026/11/19/i-guess-having-updates-rolling/",
+				
+				"content_html": "<p>I guess having updates rolling out, not just PHP, with <a href=\"https://mastodon.social/@php@fosstodon.org/117643798518630735\">fixes for multiple critical security issues</a> is the new normal&hellip;<br>\nNot complaining on having these fixed, and I&rsquo;m hoping more come, but I wonder how long we&rsquo;ll keep up the pace&hellip;</p>\n",
+				"content_text": "I guess having updates rolling out, not just PHP, with [fixes for multiple critical security issues](https://mastodon.social/@php@fosstodon.org/117643798518630735) is the new normal...  \nNot complaining on having these fixed, and I'm hoping more come, but I wonder how long we'll keep up the pace...\n",
+				"date_published": "2026-11-19T15:37:15+00:00",
+				"url": "https://t3mujin.blog/2026/11/19/i-guess-having-updates-rolling/",
+				"tags": ["Geek stuff","Microposts"]
+			},
+			{
 				"id": "http://t3mujin.micro.blog/2026/11/18/i-dont-want-to-be/",
 				
 				"content_html": "<p><a href=\"http://scripting.com/2026/11/17/042754.html?title=theDangerIsReal\">The danger is real</a>:</p>\n<blockquote>\n<p>I don’t want to be alarmist, but this is a time to be alarmed(&hellip;)</p>\n</blockquote>\n",
